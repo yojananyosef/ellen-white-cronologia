@@ -18,13 +18,13 @@ def md(s):
     return s
 
 TIPOS = {
-    'vision':  ('Vision',        '#9b8ec4'),
-    'iglesia': ('Eclesiastico',  '#6b9bd1'),
+    'vision':  ('Visión',        '#9b8ec4'),
+    'iglesia': ('Eclesiástico',  '#6b9bd1'),
     'salud':   ('Salud',         '#5fae8f'),
     'crisis':  ('Crisis',        '#c26a5a'),
-    'publi':   ('Publicacion',   '#c9a227'),
+    'publi':   ('Publicación',   '#c9a227'),
     'viaje':   ('Traslado',      '#7fa8a0'),
-    'bio':     ('Biografico',    '#8a8070'),
+    'bio':     ('Biográfico',    '#8a8070'),
 }
 MAPA_EMOJI = {
     '\U0001F52E':'vision','\U0001F4D6':'publi','✈':'viaje',
@@ -692,7 +692,7 @@ function markCut(){
     body.querySelector('.rv').style.setProperty('--c',c);
 
     hn.innerHTML = n+' evento'+(n===1?'':'s')+' de '+eb.textContent+'. '
-      + (hi? '<b>'+hi+'</b> '+'hito'+(hi===1?'':'s')+' de la cronologia.' : '');
+      + (hi? '<b>'+hi+'</b> '+'hito'+(hi===1?'':'s')+' de la cronología.' : '');
     ov.classList.add('on');
     document.body.style.overflow='hidden';
     pane.scrollTop=0;
@@ -1067,91 +1067,69 @@ for l in ejes_raw:
     ax.append('<div class="ax"><div class="k">Eje</div><h5>%s</h5><p>%s</p>'
               '<div class="t">Tesis: %s</div></div>' % (md(k), md(pre), md(t)))
 
-# ensayos (editorial por etapa)
-ESSAYS = [
- (0, 'LaCHF vocacion no nace de una decision religiosa.toml sino de un desplome. '
+ESSAYS = [(0, 'La vocación no nace de una decisión religiosa, sino de un desplome. '
      'En 1827 una niña de campo en Maine pierde el rostro de un golpe de piedra y con '
      'ello la escuela; en 1840 su familia escucha a William Miller y en 1844 el mundo '
-     'no acaba. Lo que sigue —una joven de diecisiete anos que ve a los creyentes '
-     'caminando hacia una ciudad que no llega— es la respuesta a ese desplome. '
-     'Todo el ministerio profetico posterior se puede leer como el intento de dar forma '
-     'a la esperanza que 1844 dejo sin objeto.'),
- (1, 'Durante seis anos el don se ejerce casi en privado: visiones de una o dos personas, '
-     'correcciones a_false maestros de secta, el seguimiento de un anexo del Sabbath. '
-     'La visio del Santuario de 1847 es el punto de inflexion, porque convierte un '
-     'movimiento disperso en una doctrina compartida.'),
- (2, 'La vision de "rios de luz" de noviembre de 1848 es la masICONICA de todo el '
-     'conjunto y la menosNJUUキングoficiada: unBeacon instruccion domestica, sin fecha ni '
-     'lugar, sobre la fundacion de una imprenta. De ella sale The Present Truth, el '
-     'Advent Review, el Review and Herald, el Pacific Press. La prosa se convierte en '
-     'institucion, y la institucion le devuelve a la prosa un publico.'),
- (3, 'Marzo de 1858 es el centro de gravedad de esta cronologia. En el funeral de un '
-     'desconocido en una escuela rural de Ohio, Ellen White ve el conflicto completo '
-     'entre Cristo y Satanas, y dos dias despues Satanas intenta matarla. De ahi '
-     'surgiran Spiritual Gifts, el Spirit of Prophecy en cuatro volumenes, Great '
-     'Controversy y, ocho decades despues, Prophets and Kings. Toda la teologia '
-     'adventista posterior es consecuencia de esas dos horas.'),
- (4, 'Con la muerte de James White (1881) ella pierde al unico hombre que habia '
-     'defendido sus visiones sin reservas. Los seis anos siguientes —escritura del '
-     'cuarto volumen, viaje a Europa con una salud que no daba para tanto, la sesion '
-     'de Minneapolis— son los mas solitarios. Y son tambien los que la llevan de una '
-     'escritora local a una autoridad continental.'),
- (5, 'Nueve anos en Australia. Cuando cruza el Pacifico lleva contabilizados unos 2.000 '
-     'kilometros de tierra y ninguna institucion propia; cuando vuelve tiene Avondale, '
-     'un Sanitarium en Sydney y un negocio alimentario en marcha. El don profetico, en '
-     'esta etapa, funciona comoplanificacion empresarial.'),
- (6, 'La crisis del panteismo (1903-1907) es el episodio donde el don profetico se juega '
-     'el futuro de la denominacion. Contra The Living Temple de J. H. Kellogg, la '
-     'reforma sanitaria y losVuejos denomination. En 1901 habia добиться la '
-     'reorganizacion quecrecio cien conferences de union; en 1907 un miembro-fundador '
-     'de las thrust fuera.'),
- (7, 'De 1910 a 1915 todo se juegue a una sola apuesta: que exista una facultad de '
-     'medicina propia en Loma Linda. La declaracion de dos parrafos de enero de 1910, '
-     'la compra de terrenos, la caida de febrero de 1915 y la visio final de marzo —donde '
-     'ella misma dice que ya no entregara mas testimonios— forman una sola linea. '
-     'El Colegio de Medicos Evangelistas abre en 1917.'),
-]
-ESSAYS = [(0, 'La vocacion no nace de una decision religiosa, sino de un desplome. '
-     'En 1827 una nina de campo en Maine pierde el rostro de un golpe de piedra y con '
-     'ello la escuela; en 1840 su familia escucha a William Miller y en 1844 el mundo '
-     'no acaba. Lo que sigue -una joven de diecisiete anos que ve a los creyentes '
+     'no acaba. Lo que sigue -una joven de diecisiete años que ve a los creyentes '
      'caminando hacia una ciudad que no llega- es la respuesta a ese desplome. '
-     'Todo el ministerio profetico posterior se puede leer como el intento de dar forma '
+     'Todo el ministerio profético posterior se puede leer como el intento de dar forma '
      'a la esperanza que 1844 dejo sin objeto.'),
- (1, 'Durante seis anos el don se ejerce casi en privado: visiones de una o dos personas, '
+ (1, 'Durante seis años el don se ejerce casi en privado: visiones de una o dos personas, '
      'correcciones a falsos maestros de secta, el seguimiento de un tractado sobre el '
-     'Sabbath. La vision del Santuario de 1847 es el punto de inflexion, porque convierte '
+     'Sabbath. La visión del Santuario de 1847 es el punto de inflexión, porque convierte '
      'un movimiento disperso en una doctrina compartida.'),
- (2, 'La vision de "rios de luz" de noviembre de 1848 es la mas iconica de todo el '
-     'conjunto y la menos conocida: una instruccion domestica, sin fecha ni lugar preciso, '
-     'sobre la fundacion de una imprenta. De ella salen The Present Truth, el Advent '
+ (2, 'La visión de "Ríos de luz" de noviembre de 1848 es la mas icónica de todo el '
+     'conjunto y la menos conocida: una instrucción doméstica, sin fecha ni lugar preciso, '
+     'sobre la fundación de una imprenta. De ella salen The Present Truth, el Advent '
      'Review, el Review and Herald y el Pacific Press. La prosa se convierte en '
-     'institucion, y la institucion le devuelve a la prosa un publico.'),
- (3, 'Marzo de 1858 es el centro de gravedad de esta cronologia. En el funeral de un '
+     'institución, y la institución le devuelve a la prosa un público.'),
+ (3, 'Marzo de 1858 es el centro de gravedad de esta cronología. En el funeral de un '
      'desconocido en una escuela rural de Ohio, Ellen White ve el conflicto completo '
-     'entre Cristo y Satanas, y dos dias despues Satanas intenta matarla. De ahi surgen '
-     'Spiritual Gifts, el Spirit of Prophecy en cuatro volumenes, Great Controversy y, '
-     'ocho decades despues, Prophets and Kings. Toda la teologia adventista posterior es '
+     'entre Cristo y Satanas, y dos dias después Satanas intenta matarla. De ahí surgen '
+     'Spiritual Gifts, el Spirit of Prophecy en cuatro volúmenes, Great Controversy y, '
+     'ocho decades después, Prophets and Kings. Toda la teología adventista posterior es '
      'consecuencia de esas dos horas.'),
- (4, 'Con la muerte de James White (1881) ella pierde al unico hombre que habia defendido '
-     'sus visiones sin reservas. Los seis anos siguientes -escritura del cuarto volumen, '
-     'viaje a Europa con una salud que no daba para tanto, la sesion de Minneapolis- son '
-     'los mas solitarios. Y son tambien los que la llevan de una escritora local a una '
+ (4, 'Con la muerte de James White (1881) ella pierde al único hombre que había defendido '
+     'sus visiones sin reservas. Los seis años siguientes -escritura del cuarto volumen, '
+     'viaje a Europa con una salud que no daba para tanto, la sesión de Minneapolis- son '
+     'los mas solitarios. Y son también los que la llevan de una escritora local a una '
      'autoridad continental.'),
- (5, 'Nueve anos en Australia. Cuando cruza el Pacifico lleva contabilizados unos '
-     'historia profesional que no llega a ninguna institucion propia; cuando vuelve tiene '
-     'Avondale, un Sanitarium en Sydney y un negocio alimentario en marcha. El don '
-     'profetico, en esta etapa, funciona como planificacion empresarial.'),
- (6, 'La crisis del panteismo (1903-1907) es el episodio donde el don profetico se juega el '
-     'futuro de la denominacion. Contra The Living Temple de J. H. Kellogg, la reforma '
-     'sanitaria y el caracter historico del movimiento. En 1901 habia logrado la '
-     'reorganizacion que creo las conferencias de union; en 1907 un miembro fundador '
+ (5, 'Nueve años en Australia. Cuando cruza el Pacífico lleva casi cincuenta años de '
+     'ministerio y ninguna institución propia; cuando vuelve tiene '
+     'Avondale, un Sanitarium en Sídney y un negocio alimentario en marcha. El don '
+     'profético, en esta etapa, funciona como planificación empresarial.'),
+ (6, 'La crisis del panteísmo (1903-1907) es el episodio donde el don profético se juega el '
+     'futuro de la denominación. Contra The Living Temple de J. H. Kellogg, la reforma '
+     'sanitaria y el carácter histórico del movimiento. En 1901 había logrado la '
+     'reorganización que creó las conferencias de unión; en 1907 un miembro fundador '
      'queda fuera.'),
  (7, 'De 1910 a 1915 todo se juega a una sola apuesta: que exista una facultad de '
-     'medicina propia en Loma Linda. La declaracion de dos parrafos de enero de 1910, la '
-     'compra de terrenos, la caida de febrero de 1915 y la vision final de marzo -donde '
-     'ella misma dice que ya no entregara mas testimonios- forman una sola linea. El '
-     'Colegio de Medicos Evangelistas abre en 1917.')]
+     'medicina propia en Loma Linda. La declaración de dos párrafos de enero de 1910, la '
+     'compra de terrenos, la caída de febrero de 1915 y la visión final de marzo -donde '
+     'ella misma dice que ya no entregará más testimonios- forman una sola línea. El '
+     'Colegio de Médicos Evangelistas abre en 1917.')]
+
+# Reparte el ensayo en frase inicial y resto. Antes se hacia con
+# texto.split('. ') taking [0] and [1:3], que tiene dos defectos:
+#   - se come el texto a partir de la tercera frase (378 de 2965 caracteres
+#     de ensayo nunca llegaban al sitio);
+#   - se corta después de cualquier «. », incluidas las abreviaturas con
+#     iniciales, asi que «J. H. Kellogg» partia el ensayo y en la etapa de
+#     1901-1909 se leia «Contra The Living Temple de J. H.» y nada mas.
+# Ahora se parte en el primer punto que no cierre abreviatura, y el resto se
+# conserva entero. Tampoco se anade un punto a mano: el texto ya lo trae y
+# producia «compartida..».
+ABREV = re.compile(r'(?:\b(?:J|H|W|C|Dr|St|Sr|Mr|Mrs|sta|jr|sr|etc|vs|no|fig|p\.|n)\.)\s*$', re.I)
+
+
+def _partir_ensayo(texto):
+    t = ' '.join(texto.split())
+    for m in re.finditer(r'\.\s+', t):
+        if ABREV.search(t[:m.end() - 1]):
+            continue
+        return t[:m.end() - 1], t[m.end():].strip()
+    return t, ''
+
 
 essay_html = []
 for k, (ei, texto) in enumerate(ESSAYS):
@@ -1162,13 +1140,14 @@ for k, (ei, texto) in enumerate(ESSAYS):
         % (TIPOS[x['t'][0]][1], html.escape(re.sub(r'\*+', '', x['f'])), md(x['x']))
         for x in ev if e['a0'] and e['a0'] <= x['y'] <= e['a1'])
     rg = '%d–%d' % (e['a0'], e['a1']) if e['a0'] else ''
+    _lead = _partir_ensayo(texto)
     essay_html.append(
         '<article class="essay" id="%s">'
         '<div class="e-h"><span class="n">%s</span><h4>%s</h4><span class="rg">%s</span></div>'
         '<div class="cols2"><p>%s</p><p>%s</p></div>'
         '<ul class="evlist">%s</ul></article>'
         % (e['id'], e['n'], html.escape(e['t']), rg,
-           md(texto.split('. ')[0] + '.'), md('. '.join(texto.split('. ')[1:3]) + '.'),
+           md(_lead[0]) if _lead[0] else '', md(_lead[1]),
            items))
 
 # La seccion «Precisiones y fuentes primarias» ya no se publica. Era un
@@ -1183,7 +1162,7 @@ FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
 
 DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
-       '<title>Los Rios de Luz — Vida y ministerio profetico de Ellen G. White, 1827–1915</title>\n'
+       '<title>Los Rios de Luz — Vida y ministerio profético de Ellen G. White, 1827–1915</title>\n'
        '<meta name="description" content="Cronologia horizontal de la vida, las visiones, '
        'las publicaciones y los eventos eclesiasticos de Ellen G. White.">\n'
        + FONTS + '\n<style>' + CSS + '</style>\n</head>\n<body>\n'
@@ -1191,55 +1170,55 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        'transform:scaleX(0);transform-origin:0;z-index:200" id="prog"></div>\n'
 
        '<header class="mast">\n<canvas id="flow"></canvas>\n<div class="mast-in sh">\n'
-       '<div class="orn">Documento de investigacion</div>\n'
+       '<div class="orn">Documento de investigación</div>\n'
        '<h1>Ellen<br>G. White<span class="y">1827 &nbsp;·&nbsp; 1915</span></h1>\n'
-       '<h2 class="tit">Vision, imprenta e institucion: <b>setenta anos</b> en los que '
-       'una revelacion domestica del 1844 organizo una iglesia mundial.</h2>\n'
+       '<h2 class="tit">Visión, imprenta e institución: <b>setenta años</b> en los que '
+       'una revelación doméstica del 1844 organizo una iglesia mundial.</h2>\n'
        '<div class="by">\n'
        '<div><div class="k">Nacimiento</div><div class="v">26 nov 1827 · Gorham, Maine</div></div>\n'
        '<div><div class="k">Muerte</div><div class="v">16 jul 1915 · Elmshaven, California</div></div>\n'
        '<div><div class="k">Visiones</div><div class="v">~2.000</div></div>\n'
-       '<div><div class="k">Publicaciones</div><div class="v">~40 libros · ~5.000 articulos</div></div>\n'
+       '<div><div class="k">Publicaciones</div><div class="v">~40 libros · ~5.000 artículos</div></div>\n'
        '</div>\n</div>\n</header>\n'
 
        '<section class="sec"><div class="sh">\n'
        '<div class="sn"><span class="num">I</span></div>\n'
        '<h3>El sismograma de una vida</h3>\n'
-       '<p class="lede">Cada barra es un ano; su altura, el numero de eventos registrados. '
-       'Los anos vacios tambien dicen algo: son los que ella paso escribiendo.</p>\n'
+       '<p class="lede">Cada barra es un año; su altura, el número de eventos registrados. '
+       'Los años vacíos también dicen algo: son los que ella paso escribiendo.</p>\n'
        + SEIS + '\n'
        '<div class="seis-h">'
        + ''.join('<span class="lg"><i style="background:%s"></i>%s</span>' % (v[1], v[0])
                  for v in TIPOS.values()) +
        '</div>\n'
-       '<p class="note">Pulsa el ano de cualquier columna para leer todos sus eventos, o usa las '
+       '<p class="note">Pulsa el año de cualquier columna para leer todos sus eventos, o usa las '
        'flechas izquierda y derecha para avanzar. Las siete bandas del fondo corresponden a las etapas. '
-       'Pasa el cursor sobre una barra para leer el total del ano; pulsa para saltar a ese '
-       'ano en la cinta horizontal.</p>\n'
-       '<div class="sn" style="margin-top:70px"><span class="num">I bis</span></div>\n'
-       '<h3 style="max-width:26ch">La vida en diecisiete numeros</h3>\n'
+       'Pasa el cursor sobre una barra para leer el total del año; pulsa para saltar a ese '
+       'año en la cinta horizontal.</p>\n'
+       '<div class="sn" style="margin-top:70px"><span class="num">II</span></div>\n'
+       '<h3 style="max-width:26ch">La vida en diecisiete números</h3>\n'
        '<p class="lede">Las cifras de control del trabajo. Las de hijos y miembros proceden '
-       'de fuentes primarias (Enciclopedia de Elena G. de White, Fortin y Moon; Informe Estadistico Anual de 1915, ASTR).</p>\n'
+       'de fuentes primarias (Enciclopedia de Elena G. de White, Fortin y Moon; Informe Estadístico Anual de 1915, ASTR).</p>\n'
        + tabla2(['Concepto', 'Dato'], datos) + '\n'
        '</div></section>\n'
 
        '<section class="sec" id="stage" style="padding-top:0;border-top:none">\n'
        '<div id="pin">\n'
        '<div id="pinhd">'
-       '<div><div class="pt">La cinta de los anos</div>'
-       '<div class="ps">Desplazate hacia abajo: la cronologia avanza de lado</div></div>'
+       '<div><div class="pt">La cinta de los años</div>'
+       '<div class="ps">Desplazate hacia abajo: la cronología avanza de lado</div></div>'
        '<div class="pr"><b id="curY">1827</b><span id="curP">0% del recorrido</span></div>'
        '</div>\n'
        '<div id="railwrap"><div id="rail"></div><div id="railhead" data-a="1827"></div></div>\n'
        '<div id="scroller">\n<div id="track">' + ''.join(cols) + '</div>\n'
-       '<div id="intro"><div><div class="big">82 anos en una sola linea</div>'
+       '<div id="intro"><div><div class="big">%d años en una sola línea</div>' % len(visiones) +
        '<div class="sm">Continua hacia abajo</div>'
        '<div class="arrow">&darr;</div></div></div>\n'
        '</div>\n</div>\n</section>\n'
 
        '<section class="sec"><div class="sh">\n'
        '<div class="sn"><span class="num">III</span></div>\n'
-       '<h3>La cronologia en extenso</h3>\n'
+       '<h3>La cronología en extenso</h3>\n'
        '<p class="lede">Ocho etapas, cada una con su tesis y sus eventos. Los puntos dorados '
        'marcan los hitos: fundaciones, rupturas y finales.</p>\n'
        + ''.join(essay_html) +
@@ -1248,28 +1227,28 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        '<section class="sec"><div class="sh">\n'
        '<div class="sn"><span class="num">IV</span></div>\n'
        '<h3>Las visiones, una por una</h3>\n'
-       '<p class="lede">%d experiencias profeticas con fecha y lugar, de la primera '
-       '(dicembre de 1844) a la ultima (marzo de 1915).</p>\n' % len(visiones) +
+       '<p class="lede">%d experiencias proféticas con fecha y lugar, de la primera '
+       '(dicembre de 1844) a la última (marzo de 1915).</p>\n' % len(visiones) +
        '<div class="rib">' + ''.join(vc) + '</div>\n'
        '<p class="note">Fuente principal: <em>A Comprehensive List of Ellen G. White\'s '
        'Visions</em> (AskAnAdventistFriend, revisado por el EGW Estate), contrastado con '
-       '<em>Life Sketches</em> y la biografia de Arthur L. White.</p>\n'
+       '<em>Life Sketches</em> y la biografía de Arthur L. White.</p>\n'
        '</div></section>\n'
 
        '<section class="sec"><div class="sh">\n'
        '<div class="sn"><span class="num">V</span></div>\n'
-       '<h3>Lo que publico</h3>\n'
+       '<h3>Lo que público</h3>\n'
        '<p class="lede">Del primer tractado de 1847 al manuscrito inacabado de 1914.</p>\n'
-       + tabla(['Año', 'Titulo', 'Editorial'], pubs_v) + '\n'
-       '<p class="lede" style="margin-top:64px">Y despues: las compilaciones que el EGW '
+       + tabla(['Año', 'Título', 'Editorial'], pubs_v) + '\n'
+       '<p class="lede" style="margin-top:64px">Y después: las compilaciones que el EGW '
        'Estate produjo tras su muerte, que son hoy el grueso de lo que se lee de ella.</p>\n'
-       + tabla3(['Año', 'Titulo', 'Paginas'], pubs_p) + '\n'
+       + tabla3(['Año', 'Título', 'Páginas'], pubs_p) + '\n'
        '</div></section>\n'
 
        '<section class="sec"><div class="sh">\n'
        '<div class="sn"><span class="num">VI</span></div>\n'
-       '<h3>Dieciseis casas</h3>\n'
-       '<p class="lede">Moverse era su metodo. De una granja en Maine a unitts en '
+       '<h3>Residencias y traslados</h3>\n'
+       '<p class="lede">Moverse era su método. De una granja en Maine a unidades en '
        'California, pasando por Basilea, Cooranbong y Elmshaven.</p>\n'
        '<div class="res">' + ''.join(rc) + '</div>\n'
        '</div></section>\n'
@@ -1298,7 +1277,7 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        'artículos firmados del mismo volumen— con las citas primarias que allí se recogen: '
        'Bio, Life Sketches, Testimonios, Review and Herald y Manuscript Releases. Los datos de '
        'socios, del Informe Estadístico Anual de 1915.</div>\n'
-       '<div>Documento de investigacion<br>Sin dependencias externas</div>\n'
+       '<div>Documento de investigación<br>Sin dependencias externas</div>\n'
        '</div></footer>\n'
        '<div class="tip" id="tip"></div>\n'
        '<button id="nav" type="button" aria-label="Ir hacia abajo">'

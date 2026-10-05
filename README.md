@@ -20,12 +20,12 @@ Ellen Gould Harmon White, cofundadora de la Iglesia Adventista del Séptimo Día
 2. **Sismograma** — cada barra es un año entre 1827 y 1949; su altura, el número de
    eventos registrados. Los años vacíos también dicen algo: son los que ella pasó
    escribiendo.
-3. **La cinta de los años** — 85 columnas, una por año con actividad. Se desplaza
+3. **La cinta de los años** — 86 columnas, una por año con actividad. Se desplaza
    lateralmente al hacer scroll vertical. Botón circular para saltar de sección.
 4. **La cronología en extenso** — 8 etapas, cada una con su tesis argumentativa.
-5. **Las visiones** — 79 experiencias proféticas con fecha y lugar.
+5. **Las visiones** — 83 experiencias proféticas con fecha y lugar.
 6. **Lo que publicó** — 63 títulos en vida + 16 compilaciones póstumas.
-7. **Dieciséis casas** — mapa de residencias y traslados.
+7. **Residencias y traslados** — el mapa de casas, en orden cronológico.
 8. **Siete ejes para el argumento** — la tesis que sostiene cada tramo.
 9. **Cifras y fechas documentadas** — los cuatro hijos, los socios de 1913–1916,
    la organización de 1863 según las actas y los artículos citados con fecha.

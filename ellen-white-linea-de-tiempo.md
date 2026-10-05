@@ -107,7 +107,8 @@
 | ene 1850 | 🔮 | Visión en Oswego, NY: la incapacidad de los que se rehúsan a dar. |
 | sep 1850 | 🔮 | Visión en Sutton, Vermont: las siete langas, el milenio y el juicio final. |
 | 23 sep 1850 | 🔮 | **Visión de la dispersión y la reunión** del pueblo de Dios para proclamar los tres mensajes. |
-| **abr 1851** | ✈️ | **Alquila su primera casa en Rochester, New York**, en la avenida Mount Hope nº 124. Allí funciona también la **primera prensa propiedad de los adventistas del séptimo día**, que imprimió *Review and Herald* y *Youth's Instructor*. *Fuente: Enciclopedia EGW. Corregido: figuraba como abril de 1852.* |
+| **ago 1851** | ✈️ | **Se mudan a Saratoga Springs, New York**, donde James continúa publicando el *Review and Herald* hasta marzo de 1852. *Fuente: Enciclopedia EGW (SG 2:160; LS80 287).* |
+| **abr 1852** | ✈️ | **Alquila su primera casa en Rochester, New York**, en la avenida Mount Hope nº 124. Allí funciona también la **primera prensa propiedad de los adventistas del séptimo día**, que imprimió *Review and Herald* y *Youth's Instructor*. *Fuente: Enciclopedia EGW (TI 1:89). Discrepancia de la fuente: el apéndice cronológico de Olson y Coon sitúa esta casa en abril de 1851; el artículo biográfico, con cita propia, en abril de 1852, tras los ocho meses en Saratoga Springs.* |
 | **jul 1851** | 📖 | **PRIMER LIBRO**: *A Sketch of the Christian Experience and Views of Ellen G. White* (64 pág., James White). Reúne sus primeras visiones. |
 | 2 jul 1853 | 🔮 | **Visión que llama a intensificar la publicación**: distribuir material con mayor frecuencia que cada dos semanas (Rochester, NY). |
 | 1854 | 📖 | **Suplemento** a *A Sketch* (48 pág.). |
@@ -524,8 +525,9 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 | 1837–1848 | Portland, Maine |
 | 1848–1850 | Gorham, Topsham, Exeter, Rockland (Maine); Dorchester (MA); Middletown, NY |
 | 1850–1851 | Toledo, Ohio |
-| 1851–1852 | Boston, MA |
-| **abr 1851 – nov 1855** | **Rochester, New York** (avda. Mount Hope 124; después 110 y 112) |
+| 1851 (visita) | Boston, Massachusetts: viaje de James para reunir fondos para la prensa |
+| **ago 1851 – mar 1852** | **Saratoga Springs, New York**. James sigue publicando el *Review and Herald* hasta marzo de 1852; allí se imprime *A Sketch* (1851) |
+| **abr 1852 – nov 1855** | **Rochester, New York** (avda. Mount Hope 124; después 110 y 112). La casa alberga también la primera prensa propiedad de los adventistas |
 | **nov 1855 – 1865** | **Battle Creek, Michigan** |
 | 1866–1868 | Greenville, Michigan |
 | 1868–1872 | Battle Creek, Michigan |
