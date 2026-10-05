@@ -32,7 +32,7 @@
 | Manuscritos conservados | ~50.000 páginas (E. G. White Estate) |
 | Títulos disponibles hoy | ~100 en inglés, con las compilaciones póstumas incluidas (otras fuentes calculan ~180) |
 | Distintivo editorial | Es la mujer más traducida de la historia literaria y la autora estadounidense más traducida. *Pasos hacia el cielo* en más de 140 idiomas |
-| Mayor audiencia | 20.000 personas en la reunión campamental de Groveland, Massachusetts, ago-1877 |
+| Mayor audiencia | unas 20.000 personas en el congreso campestre de Groveland, Massachusetts, **27 ago 1876** (con una segunda reunión de magnitudes parecidas el 26 ago 1877) |
 | Miembros de la iglesia | **136.879 al 31 de diciembre de 1915** (Informe Estadístico Anual de 1915): +11.035 en el año (+8,77 %) y 17.438 bautismos, uno de los máximos jamás registrados. En 1914 había 125.844. Superó los 11 millones en 2000 |
 | Alcance geográfico | vivió y trabajó en 3 continentes; visitó más de 12 países |
 | Instrucción formal | se educó formalmente a los 9 años; nunca fue ordenada ni electa a cargo oficial alguno |
@@ -45,10 +45,11 @@
 |---|---|---|
 | **26 nov 1827** | 📌 | **NACIMIENTO** de Ellen Gould Harmon en Gorham, Maine. Gemela de Elizabeth; la menor de ocho hijos de Robert Harmon, agricultor que fabricaba sombreros usando nitrato de mercurio. Vive en una granja. |
 | 1833–1837 | ✈️ | La familia abandona la agricultura y se traslada a Portland, Maine (unos 19 km al este). Ellen ayuda en el hogar y en el taller de sombreros del padre. |
-| c. 1836–37 | ⚕️ | **A los 9 años**: golpeada en el rostro por una piedra lanzada por un compañero de clase. Tres semanas inconsciente; una lesión nasal grave que marcó el final de su educación formal y el comienzo de su reflexión espiritual. |
-| **13 feb 1840** | ⛪ | Asiste con su familia a reuniones de **William Miller** y oye por primera vez el mensaje de la adventividad. La familia entra en el movimiento millerita. |
-| 1840 | ⛪ | Campamento metodista en Buxton, Maine: a los **12 años** tiene su experiencia de conversión. |
-| 1840–1842 | ⛪ | Asiste a reuniones adventistas en Portland, acepta las doctrinas de Miller y espera el regreso inminente de Cristo. Trabaja como misionera laica entre sus jóvenes. |
+| **dic 1836** | ⚕️ | **A los 9 años**: golpeada en el rostro por una piedra lanzada por un compañero de clase, en Portland, Maine. Lesión nasal grave y conmoción cerebral que marcan el final de su educación formal y el comienzo de su reflexión espiritual. *Fecha fijada por la Enciclopedia EGW: el accidente ocurrió en diciembre de 1836.* |
+| **25 ene 1837** | ⚕️ | Recobra el conocimiento tras tres semanas de delirio, pero sigue postrada en cama: esto confirma diciembre de 1836 como la fecha del accidente. En medio de lo que parecía ser su lecho de muerte tiene la conversión y encuentra perdón, amor y paz. |
+| **11–23 mar 1840** | ⛪ | En el círculo millerita de **Portland, Maine**, oye por primera vez a **William Miller**. La familia entra en el movimiento. *Fuente: Enciclopedia EGW (LS80 136; TI 1:19). Corregido: la fecha «13 feb 1840» que figuraba antes no coincide con la fuente primaria.* |
+| **sep 1841** | ⛪ | Congreso campestre metodista en **Buxton, Maine**. *Fuente: Enciclopedia EGW. Corregido: figuraba como 1840.* |
+| 1841–1842 | ⛪ | Asiste a reuniones adventistas en Portland, acepta las doctrinas de Miller y espera el regreso inminente de Cristo. Trabaja como misionera laica entre sus jóvenes. |
 | **26 jun 1842** | ⛪ | **BAUTISMO por inmersión** (oficiado por John Hobart) en Casco Bay, Portland. Ese mismo día es recibida como miembro de la Iglesia Metodista. |
 | sep 1843 | ⛪ | Separada de la Iglesia Metodista por "quebrantar la disciplina": la adherencia de su familia al millerismo provoca la separación (las fechas varían según la fuente). |
 | **22 oct 1844** | ⛪ | **EL GRAN DESENGANO (The Great Disappointment).** Termina el período de 2.300 días de Daniel 8 y Cristo no viene. Decenas de miles abandonan el movimiento. Ellen tiene 16 años. |
@@ -71,6 +72,8 @@
 | 1845 | 🔮 | **Reprensión del fanatismo**: corrige a Joseph Turner en Portland; revela los errores de dos falsos maestros en Claremont, NH; reprende a Elder Stevens en Paris, ME; consuela a Washington Morse (NH). |
 | 1845 | 📌 | Comienza a viajar por Maine y Nueva Inglaterra para relatar lo revelado a los grupos dispersos de creyentes, ayudada por parientes y amigos. |
 | 1845 | 🔮 | **Advertencia sobre nuevas fechas**: predice la decepción de quienes fijaron nuevas fechas para el regreso de Cristo y anuncia "el tiempo de figuración de Jacob" antes de su venida. |
+| **primavera 1845** | 📌 | En **Oregonia, Maine**, conoce al joven predicador adventista **James Springer White** (Knight, *Joseph Bates*, p. 100), quien se convenció de la autenticidad de sus visiones. *Fuente: Enciclopedia EGW* |
+| **invierno 1844–45** | 📌 | Visita a los creyentes milleritas de Maine con James White y una acompañante; en **Atkinson, Maine**, asiste a una reunión en granja dirigida por Israel Dammon. *Fuente: Enciclopedia EGW* |
 
 ---
 
@@ -79,15 +82,14 @@
 | Fecha | Tipo | Evento |
 |---|---|---|
 | **24 ene 1846** | 📖 | **PUBLICACIÓN NO AUTORIZADA**: su carta "From Sister Harmon" aparece impresa en *The Day-Star* (Cincinnati, Ohio; editor Enoch Jacobs) pese a que había escrito que no era para publicación. Se difundió ampliamente y fue la base de su primer libro. |
-| feb 1845 | 📌 | En Oregonia, Maine, conoce al joven predicador adventista **James Springer White**, quien se convenció de la autenticidad de sus visiones. |
-| invierno 1844–45 | 📌 | Visita a los creyentes milleritas de Maine con James White y una acompañante; en Atkinson, Maine, asiste a una reunión en granja dirigida por Israel Dammon. |
-| **30 ago 1846** | 📌 | **MATRIMONIO** con James Springer White (celebrado por un juez de paz en Portland, Maine). James escribió: "ha sido mi corona de gozo desde esa hora hasta el presente". |
+| **6 abr 1846** | 📖 | **PRIMERA PUBLICACIÓN PROPIA**: *To the Little Remnant Scattered Abroad*, un circular de 250 copias. *Fuente: Enciclopedia EGW.* |
+| **30 ago 1846** | 📌 | **MATRIMONIO** con James Springer White (celebrado por un juez de paz en Portland, Maine). James tenía 25 años y ella 18. James escribió: "ha sido mi corona de gojo desde esa hora hasta el presente". *Fuente: Enciclopedia EGW.* |
 | ago–sep 1846 | ⛪ | **ADOPCIÓN DEL SÁBADO DEL SÉPTIMO DÍA.** Las primeras semanas de matrimonio leen el tratado de 46 páginas de Joseph Bates, *The Seventh-day Sabbath* (New Bedford, MA). Convencidos de su fundamento bíblico, comienzan a guardar el sábado. |
 | **3 abr 1847** | 🔮 | **VISIÓN DE LA LEY EN EL SANTUARIO CELESTIAL** (Topsham, Maine): entra en el Santísimo, ve el arca y los Diez Mandamientos, y el **cuarto mandamiento rodeado de un halo de luz**. Confirma la verdad del sábado ante los adventistas. *Fuente: Early Writings, pp. 32–35.* |
 | **26 ago 1847** | 📌 | **Nacimiento de Henry Nichols White** (primer hijo), en Gorham, Maine. A los dos años, Ellen lo deja con la familia Howland, en Maine, para poder seguir viajando. Ellen lo llamaba "nuestro dulce cantante": tocaba el melodión. |
 | 1847 | 📖 | **A Word to the "Little Flock"** (30 pág.): colección de textos de Joseph Bates, James White y Ellen White, impresa por James White. |
 | 1847–1850 | 📌 | Años de pobreza: James divide su tiempo entre predicar y ganar el sustento en el bosque, en el ferrocarril o en el campo de heno. |
-| 1848 | 🔮 | **Cinco conferencias de sábado** en Connecticut, Nueva York y Maine. Durante ellas sus visiones dirigían la comprensión bíblica cuando la investigación se trababa. |
+| **20–24 abr 1848** | 🔮 | **PRIMERA REUNIÓN GENERAL** de los adventistas del séptimo día, en Rocky Hill, Connecticut: primera de unas **23 series de conferencias** (abiertamente evangelizadoras) que se celebraron entre 1848 y 1850. En la segunda, en Volney, NY (ago 1848), de 35 asistentes apenas dos «concordaban» (SG 2:93; LS80 245) |
 | 1848 | ⚕️ | **PRIMERA VISIÓN DE SALUD** (Rocky Hill, CT): "he visto en visión que el tabaco es una maleza inmunda, y que debe abandonarse"; también los efectos del té y el café. |
 | ago 1848 | 🔮 | **Visión de Port Gibson, NY** (granja de Hiram Edson, 27–28 ago): llama a la unidad entre los adventistas, a pesar de las diferencias. |
 | **18 ago 1848** | 🔮 | **Visión sobre los 1.000 años** (Volney, NY): refuta las ideas erróneas entonces extendidas sobre Apocalipsis 20. |
@@ -97,19 +99,22 @@
 | **6 ene 1849** | 🔮 | **Visión de ángeles que retienen los cuatro vientos** hasta que su pueblo reciba el sello. |
 | 18 ene 1849 | 🔮 | **Visión sobre el deber durante el tiempo de figuración**: Dios proveerá; no deben acumular tesoros materiales. |
 | 24 mar 1849 | 🔮 | **Visión de la puerta cerrada y la abierta** y los **engaños del espiritualismo**: Satanás usaría "prodigios y señales" para engañar (contemporáneo de las hermanas Fox). |
-| 23 sep 1850 | 🔮 | **Visión de la dispersión y la reunión** del pueblo de Dios para proclamar los tres mensajes. |
-| feb 1849 | 🔮 | **Visión que la instruye ir a Dartmouth, Massachusetts**, a orar por un niño enfermo. |
+| **feb 1849** | 🔮 | **Visión que la instruye ir a Dartmouth, Massachusetts**, a orar por un niño enfermo. |
+| **jul 1849** | 📖 | **Comienza *The Present Truth*** (James White, Rocky Hill, CT): nace el período editorial que sostendrá toda la obra posterior. Es el primero de los **once números**. |
 | **28 jul 1849** | 📌 | **Nacimiento de James Edson White** (segundo hijo) en Rocky Hill, Massachusetts. A los 15 años ya era empleado de pleno derecho del *Review and Herald*. |
-| **jul 1849** | 📖 | **Comienza *The Present Truth*** (James White, Rocky Hill, CT): nace el período editorial que sostendrá toda la obra posterior. |
-| 1850 | 📖 | Funda **The Advent Review** (después *Review and Herald*). |
+| **verano 1850** | 📖 | Se publican los primeros cuatro números de **The Advent Review**, en Auburn, Nueva York. |
+| **17 nov 1850** | 📖 | **Fusión** de *The Present Truth* y *The Advent Review* en *Second Advent Review and Sabbath Herald*, en Paris, Maine (después *Review and Herald*). |
+| ene 1850 | 🔮 | Visión en Oswego, NY: la incapacidad de los que se rehúsan a dar. |
+| sep 1850 | 🔮 | Visión en Sutton, Vermont: las siete langas, el milenio y el juicio final. |
+| 23 sep 1850 | 🔮 | **Visión de la dispersión y la reunión** del pueblo de Dios para proclamar los tres mensajes. |
+| **abr 1851** | ✈️ | **Alquila su primera casa en Rochester, New York**, en la avenida Mount Hope nº 124. Allí funciona también la **primera prensa propiedad de los adventistas del séptimo día**, que imprimió *Review and Herald* y *Youth's Instructor*. *Fuente: Enciclopedia EGW. Corregido: figuraba como abril de 1852.* |
 | **jul 1851** | 📖 | **PRIMER LIBRO**: *A Sketch of the Christian Experience and Views of Ellen G. White* (64 pág., James White). Reúne sus primeras visiones. |
-| abr 1852 | ✈️ | **Establece su hogar en Rochester, Nueva York.** Continúa la obra editorial; se inicia el *Youth's Instructor* (1852). Se obtiene una prensa manual. |
-| **29 ago 1854** | 📌 | **Nacimiento de William Clarence White** (tercer hijo, W. C.) en Rochester, Nueva York. Será su asesor, editor y acompañante durante 58 años. |
+| 2 jul 1853 | 🔮 | **Visión que llama a intensificar la publicación**: distribuir material con mayor frecuencia que cada dos semanas (Rochester, NY). |
 | 1854 | 📖 | **Suplemento** a *A Sketch* (48 pág.). |
+| **29 ago 1854** | 📌 | **Nacimiento de William Clarence White** (tercer hijo, W. C.) en Rochester, Nueva York. Será su asesor, editor y acompañante durante 58 años. |
 | ene–feb 1854 | ⚕️ | **Visión de la higiene personal y la alimentación** (Brookfield, NY): "alimentos finos" frente a la dieta simple. |
 | 23 may 1854 | 🔮 | **Visión de protección en un accidente de tren** (Michigan): un ángel preservó sus vidas. |
 | jun 1854 | 🔮 | **Visión sobre el uso de tiendas de campaña** para la evangelización (Grand Rapids, MI). |
-| 2 jul 1853 | 🔮 | **Visión que llama a intensificar la publicación**: distribuir material con mayor frecuencia que cada dos semanas (Rochester, NY). |
 | **20 jun 1855** | 🔮 | **Visión sobre un grupo hostil** (Oswego, NY): consejo de no hacer caso a quienes se habían apartado del adventismo. |
 | **nov 1855** | ✈️ | **TRASLADO A BATTLE CREEK, MICHIGAN.** La Review and Herald Publishing Association, con la prensa manual, se traslada de Rochester a un nuevo edificio ofrecido por los adventistas de Michigan. El cambio marca el inicio del período más intenso de su ministerio. |
 | **dic 1855** | 📖 | **Testimonio para la Iglesia n.º 1** (16 págs.): inicia la serie que en 55 años alcanzó casi 5.000 páginas en 9 volúmenes. |
@@ -123,24 +128,29 @@
 | **27 may 1856** | 🔮 | **Visión de "Los Dos Caminos"** (sesión de la conferencia de Battle Creek): el camino estrecho y escabroso hacia el cielo frente al ancho y abierto hacia la destrucción. También consejo para las esposas de los ministros. |
 | feb 1857 | 🔮 | **Visión de los ataques de Satanás contra la iglesia** (Battle Creek): la tentación con la prosperidad terrenal. |
 | jul 1857 | 🔮 | **Visión sobre la iglesia de Nueva York** (Ulysses, PA): el buscar faltas y reproches había destruido la unidad y la misión. |
+| **14 mar 1858** | 🔮 | **LA VISIÓN DEL GRAN CONTROVERSO** — en un funeral en la escuela pública de Lovett's Grove (hoy Bowling Green), Ohio. Recibe la visión panorámica del conflicto cósmico entre Cristo y sus ángeles contra Satanás y sus ángeles, desde la caída de Lucifer hasta el fin. Dura cerca de dos horas. |
+| **16 mar 1858** | ⚕️ | Al volver de Ohio sufre en Jackson, Michigan, un **ataque de parálisis** en casa de Daniel y Abigail Palmer. La visión siguiente (jun 1858) le revela que Satanás había intentado matarla para impedirle publicar lo de Lovett's Grove. James White escribió que "Dios se manifestó de manera preocupante" y que "varios habían decidido guardar el sábado del Señor". |
+| sep 1858 | 📖 | **Publica *Spiritual Gifts, Vol. 1***: *The Great Controversy Between Christ and His Angels and Satan and His Angels* (219 págs.), primera semilla de la serie del Gran Conflicto. |
 | **4 jun 1859** | 🔮 | **Visión sobre la iglesia de Battle Creek**: "todavía no moriré"; el mensaje de Laodicea se aplica a la iglesia actual; el diezmo; el vestir y la moda. |
-| **14 mar 1858** | 🔮 | **LA VISIÓN DEL GRAN CONTROVERSO** — en un funeral en la escuela pública de Lovett's Grove (hoy Bowling Green), Ohio. Recibe la visión panorámica del conflicto cósmico entre Cristo y sus ángeles contra Satanás y sus ángeles, desde la caída de Lucifer hasta el fin. Dura cerca de dos horas. **Dos días después Satanás intentó quitarle la vida** mediante un ataque de parálisis. James White escribió que "Dios se manifestó de manera preocupante" y que "varios habían decidido guardar el sábado del Señor". |
-| sep 1858 | 📖 | **Publica *Spiritual Gifts, Vol. 1***: *The Great Controversy Between Christ and His Angels and Satan and His Angels* (219 págs.). |
-| 1860 | 📖 | *Spiritual Gifts, Vol. 2* (304 págs.). |
-| 1860 | 📖 | *Solemn Appeal* (181 págs.). |
-| **5 nov 1862** | 🔮 | **Visión sobre el pastor Moses Hull** (Battle Creek): le revela su caída próxima; Hull abandonará la iglesia y se entregará al espiritualismo. |
 | **1 oct 1860** | ⛪ | **ADOPCIÓN DEL NOMBRE "SEVENTH-DAY ADVENTISTS"**, en la conferencia de Battle Creek del 28 sep–1 oct: aprobado con 24 votos contra 1. "Seventh-day Adventists fue propuesto como un nombre sencillo y expresivo de nuestra fe y posición." Ellen escribió después: "El nombre Seventh-day Adventist lleva adelante los rasgos verdaderos de nuestra fe, y convictará a la mente que investiga". |
-| 23 oct 1860 | ⛪ | **Fundación de la Seventh-day Adventist Publishing Association**: los fondos pasan de James White al cuerpo legal de la iglesia. |
-| **12 ene 1861** | 🔮 | **Visión de la Guerra Civil** (Parkville, MI): más estados se separarán y miembros de su congregación morirán en la guerra. |
-| **3 ago 1861** | 🔮 | **Visión sobre la Guerra Civil y la esclavitud** (Roosevelt, NY), incluida la batalla de Bull Run. |
+| **13 may 1860** | ⛪ | Se establece en **Parksville, Michigan**, la primera Iglesia Adventista del Séptimo Día organizada legalmente. |
 | **20 sep 1860** | 📌 | **Nacimiento de John Herbert White** (cuarto hijo) en Battle Creek. |
-| **21 may 1863** | ⛪ | **ORGANIZACIÓN DE LA CONFERENCIA GENERAL** en Battle Creek, Michigan: nace oficialmente la **Iglesia Adventista del Séptimo Día**. ~3.500 miembros en unas 125 iglesias. Se reunieron 20 delegados de cinco de las seis conferencias estatales. Presidente: **John Byington** (a James White se le ofreció la presidencia y la rechazó). Secretario: **Uriah Smith**. Tesorero: **E. S. Walker**. Comité Ejecutivo: James White, John Byington, J. N. Loughborough, J. N. Andrews y G. W. Amadon. |
+| **14 dic 1860** | 📌 | Fallecimiento de John Herbert White, de cuatro meses, por erisipela. |
+| 23 oct 1860 | ⛪ | **Fundación de la Seventh-day Adventist Publishing Association**: los fondos pasan de James White al cuerpo legal de la iglesia. |
+| 1860 | 📖 | *Spiritual Gifts, Vol. 2* (304 págs.), su primera autobiografía. |
+| 1860 | 📖 | *Solemn Appeal* (181 págs.). |
+| **12 ene 1861** | 🔮 | **Visión de la Guerra Civil** (Parkville, MI): una visión de veinte minutos que predice una guerra larga y costosa, contra la expectativa de que sería breve y decisiva. |
+| **5–6 oct 1861** | ⛪ | Primera asociación estatal organizada en Michigan. |
+| **3 ago 1861** | 🔮 | **Visión sobre la Guerra Civil y la esclavitud** (Roosevelt, NY), incluida la batalla de Bull Run. |
+| **5 nov 1862** | 🔮 | **Visión sobre el pastor Moses Hull** (Battle Creek): le revela su caída próxima; Hull abandonará la iglesia y se entregará al espiritualismo. |
+| **20–23 may 1863** | ⛪ | **ORGANIZACIÓN DE LA CONFERENCIA GENERAL** en Battle Creek, Michigan: nace oficialmente la **Iglesia Adventista del Séptimo Día**, con ocho asociaciones estatales. ~3.500 miembros en unas 125 iglesias. Se reunieron 20 delegados de cinco de las seis conferencias estatales. Presidente: **John Byington** (a James White se le ofreció la presidencia y la rechazó). Secretario: **Uriah Smith**. Tesorero: **E. S. Walker**. Comité Ejecutivo: James White, John Byington, J. N. Loughborough, J. N. Andrews y G. W. Amadon. |
 | **5–6 jun 1863** | ⚕️ | **VISIÓN DE LA REFORMA SANITARIA** — Otsego, Michigan. Le es mostrado que la salud física está ligada a la espiritualidad: importancia del agua pura, el aire puro, la luz del sol, el ejercicio y el dominio propio; los efectos del alcohol, el tabaco, las bebidas estimulantes y la comida refinada; una dieta sencilla; el rechazo de la carne impura. *Fuente: Manuscrito 1, 1863.* |
 | **8 dic 1863** | 📌 | **Muere Henry Nichols White** en Topsham, Maine, a los 16 años, de pulmonía contraída tras bañarse en el río. Sus últimas palabras: "El cielo es dulce". Fue enterrado en Oak Hill Cemetery, junto a su hermano bebé. La muerte, junto con la grave enfermedad de James White, refuerza entre los líderes la importancia de la reforma sanitaria. |
 | ago 1864 | 📖 | **Artículo sobre salud** en *Spiritual Gifts, Vol. 4*; *Health, or How to Live* (6 folletos, 400 págs., 1865). |
 | **25 dic 1865** | ⚕️ | **VISIÓN QUE LLAMA A ESTABLECER INSTITUCIONES DE SALUD** (Rochester, NY): "debemos proporcionar un hogar para los enfermos y para aquellos que deseen aprender a cuidar sus cuerpos para que puedan prevenir las enfermedades". Misma visión: consejo sobre la observancia del sábado y sobre la recuperación de su esposo en Dansville, Nueva York. |
+| **ago 1866** | 📖 | Se lanza el periódico **Health Reformer**. |
+| **sep 1866** | ⚕️ | **APERTURA DEL WESTERN HEALTH REFORM INSTITUTE** (Battle Creek Sanitarium), siguiendo la instrucción del 25 de diciembre de 1865. Ellen está presente en la inauguración. En 1877 se le cambiará el nombre a Sanatorio Médico y Quirúrgico. |
 | 1866–1868 | ✈️ | Se retira con su esposo enfermo a una granja cerca de Greenville, Michigan. Lejos de la carga de la sede, escribe y desarrolla el relato del conflicto con las nuevas revelaciones recibidas. |
-| **5 sep 1866** | ⚕️ | **APERTURA DEL WESTERN HEALTH REFORM INSTITUTE** (Battle Creek Sanitarium), siguiendo la instrucción del 25 de diciembre de 1865. Ellen está presente en la inauguración. |
 | 12 jun 1868 | 🔮 | **Visión del cielo y de la tierra nueva** (Battle Creek). |
 | **1–7 sep 1868** | ⛪ | **PRIMERA REUNIÓN CAMPAMENTAL** en Wright, Michigan: el modelo de los camp meetings que se extendieron por Wisconsin y Michigan en los años posteriores. |
 | **1870** | 📖 | **Publica *The Spirit of Prophecy, Vol. 1*** (414 págs.): de la caída de Lucifer a los tiempos de Salomón. |
@@ -152,19 +162,20 @@
 | 1874 | 📖 | Comienza la revista **Signs of the Times** en Oakland, California; se establece la **Pacific Press**. |
 | **3 ene 1875** | 🔮 | **VISIÓN DE LAS PRENSAS** en muchos países: vio imprentas operando en tierras fuera de América del Norte y una obra organizada en territorios que los adventistas jamás habían considerado. |
 | **4 ene 1875** | ⛪ | **DEDICACIÓN DE BATTLE CREEK COLLEGE**, primera institución educativa adventista (fundada en 1874). Pronuncia el mensaje que le había sido mostrado en la visión del día anterior. |
-| 12 sep 1875 | 🔮 | **Visión sobre el fundamento de los colportores** (colporteur ministry) (Rome, NY). |
+| 12 sep 1875 | 🔮 | **Visión sobre el fundamento de los colportores** (colporteur ministry) (Rome, NY). *Publicada como "A Remarkable Dream", Review and Herald, 4 nov 1875.* |
+| 1873–1876 | ⚕️ | Ayuda a J. H. Kellogg a obtener formación médica en el Bellevue Hospital Medical College, Nueva York. |
 | 1876 | ⛪ | Fundación de la **National Religious Liberty Association**. |
-| 1882 | ⛪ | **Cierre temporal de Battle Creek College**, provocado por los conflictos sobre la finalidad de las escuelas adventistas. Stephen N. Haskell funda entonces South Lancaster Academy (hoy Atlantic Union College); en California, W. C. White impulsa Healdsburg College, que abre ocho días antes. |
-| **jul 1901** | ⛪ | Los trustees de Battle Creek College, reunidos en Berrien Springs del 11 al 16 de julio, votan la mudanza. En 1901 la institución se traslada en 16 vagones a Berrien Springs y pasa a llamarse **Emmanuel Missionary College** (hoy Universidad Andrews). |
 | 5 ene 1876 | 🔮 | **Visión de consejo para James White** (Oakland): "da simpatía, da amor, y encontrarás que este poder suavizará y sujeitará al más pertinaz". |
-| **ago 1877** | 📌 | **MAYOR AUDIENCIA DE SU VIDA: 20.000 personas** en Groveland, Massachusetts, donde habló más de una hora sin micrófono sobre la templanza cristiana. |
+| **27 ago 1876** | 📌 | **MAYOR AUDIENCIA DE SU VIDA: unas 20.000 personas** en el congreso campestre de Groveland, Massachusetts (a 4 millas de Haverhill, con acceso por tren y barcos de excursión). Habló sobre la templanza cristiana ante la multitud más grande de su vida. *Fuentes: Enciclopedia EGW, art. «Reunión campestre de Groveland» (Ct 42, 1976; ST 14/9/1876); Bio 3:45-46.* |
+| **26 ago 1877** | 📌 | **Segunda conferencia campestre de Groveland**, un año después: vuelve a hablar ante «enormes multitudes». La cifra de 20.000 aparece en ambas fechas según la fuente que se cite, lo que explica la discrepancia 1876/1877 de la bibliografía secundaria (Bio 3:67-69). |
 | 1877 | 📖 | *The Spirit of Prophecy, Vol. 2* (398 págs.). |
 | 1878 | 📖 | *The Spirit of Prophecy, Vol. 3* (392 págs.). |
 | 4 abr 1878 | 🔮 | **Visión sobre la salud de James White** (Oakland): un "médico célebre" entra a la casa, con lo que James necesitaba para recuperar fuerzas y fe. |
 | **nov 1878 – abr 1879** | ✈️ | **ESTANCIA EN TEXAS** por la salud de James White. **Arthur y Mary Daniells** se incorporan a la familia: él como compañero y enfermero de James, ella como cocinera y ama de casa. Arthur sería después presidente de la Confererencia General (1901). |
 | 23 oct 1879 | 🔮 | **Visión sobre el juicio del fin** (Battle Creek). |
+| **20 abr 1879** | ⛪ | **Se dedica el Tabernáculo Dime** (moneda de diez centavos) de Battle Creek, con asientos para unas 4.000 personas: la última gran obra emprendida por James White antes de su muerte. *Fuente: Enciclopedia EGW, cronología de Olson y Coon.* |
 | 1879 | 📖 | *Testimonio para la Iglesia* n.º 28 (Pacific Press, Oakland). |
-| 1873–1876 | ⚕️ | Ayuda a J. H. Kellogg a obtener formación médica en el Bellevue Hospital Medical College, Nueva York. |
+| 1882 | ⛪ | **Cierre temporal de Battle Creek College**, provocado por los conflictos sobre la finalidad de las escuelas adventistas. Stephen N. Haskell funda entonces South Lancaster Academy (hoy Atlantic Union College); en California, W. C. White impulsa Healdsburg College, que abre ocho días antes. |
 
 ---
 
@@ -212,10 +223,12 @@
 | 1894 | ⛪ | **James Edson White** construye un **barco de vapor sobre el Misisipí** y lo usa unos diez años como **misión flotante para los negros** en Misisipí y Tennessee. |
 | **24 may 1894** | ⛪ | Selecciona el sitio de Corranbong para el Colegio Misionero de Australia. |
 | 1894 | 📖 | *Christian Education* (248 págs.). |
-| jul 1895 | ✈️ | **Compra la tierra para "Sunnyside"** en Cooranbong (su hogar en Australia). |
+| **1895** | ✈️ | **Se muda a Cooranbong**, Nueva Gales del Sur, para supervisar la construcción y el desarrollo de la Escuela de Avondale. **Vive en una tienda** mientras levantan su casa. |
 | 1895–1896 | 📖 | Artículos en el *Review and Herald* que continúan instando a hacer esfuerzos por los negros del Sur. |
 | **1896** | 📖 | **Publica *Thoughts from the Mount of Blessing*** (152 págs.). |
+| **5 oct 1896** | ⛪ | **Se coloca la "piedra fundamental"** del primer edificio de la Escuela de Avondale, llamada a ser escuela "patrón" de la educación adventista mundial. *Fuente: Enciclopedia EGW* |
 | 1897 | 📖 | *Healthful Living* (307 págs.). |
+| **28 abr 1897** | ⛪ | **SE ABRE LA ESCUELA DE AVONDALE** en Cooranbong, precursora del Colegio de Avondale. *Fuente: Enciclopedia EGW, cronología de Olson y Coon.* |
 | jul 1897 | 🔮 | **Visión sobre Avondale** (Cooranbong, Nueva Gales del Sur): el cuerpo docente y los estudiantes eran irresponsables y no seguían el consejo de Dios; include bromas y conversación de mal gusto. |
 | 23 ago 1897 | 🔮 | **Visión de la iglesia de Cooranbong**: ve en papel las dimensiones del edificio y la satisfacción de todos. |
 | ago 1898 | 🔮 | **Visión sobre la fábrica de sustitutos de carne**: se le muestra que en vez de Melbourne el sitio mejor es Sydney, y que tendría muchas sucursales en el futuro. |
@@ -232,7 +245,8 @@
 | Fecha | Tipo | Evento |
 |---|---|---|
 | **ago 1901** | 🔮 | **Visión que fundamenta un nuevo sanitarium en el sur de California** (Los Angeles): **no en la ciudad, sino en el campo**, donde los pacientes recibieran aire puro, trabajo al aire libre y ejercicio. *Fuente: Testimonios, vol. 7, p. 85.* |
-| **abr 1901** | ⛪ | **SESIÓN DE LA CONFERENCIA GENERAL EN BATTLE CREEK.** Ellen White **llama audazmente a la reorganización** del trabajo de la Confererencia General. Los delegados responden: se adoptan las **Conferencias de Unión** como organizaciones intermedias y se crean los **Departamentos de la Confererencia General**. **A. G. Daniells** es elegido presidente de la Confererencia General. |
+| **2–21 abr 1901** | ⛪ | **SESIÓN DE LA CONFERENCIA GENERAL EN BATTLE CREEK.** Ellen White **llama audazmente a la reorganización** del trabajo de la Confererencia General. Los delegados responden: se adoptan las **Conferencias de Unión** como organizaciones intermedias y se crean los **Departamentos de la Confererencia General**. **A. G. Daniells** es elegido presidente de la Confererencia General. |
+| **11–16 jul 1901** | ⛪ | Los trustees de Battle Creek College, reunidos en Berrien Springs, votan la mudanza. En el verano la institución se traslada en **16 vagones** a Berrien Springs y pasa a llamarse **Emmanuel Missionary College**, hoy Universidad Andrews. |
 | 1901 | 📖 | *Southern Work* (96 págs.). |
 | **18 feb 1902** | 🏛️ | **INCENDIO DEL BATTLE CREEK SANITARIUM**: el edificio principal, de cinco pisos, es totalmente destruido por fuego (pérdidas de US$300.000 a 400.000). |
 | 22 abr 1902 | 🔮 | **Visión sobre C. H. Jones** (director del Pacific Press): debe permanecer en su puesto, no renunciar. |
@@ -253,6 +267,7 @@
 | 1903–1904 | ⚕️ | Conduce la compra del **Paradise Valley Sanitarium** y acompaña la construcción del **Sanitarium de St. Helena**. |
 | dic 1904 | 🔮 | **Visiones en Paradise Valley**: la obra médica misionera es tan importante al tercer mensaje de ángel como la diestra a un cuerpo; instrucciones sobre el carácter y el comportamiento de los empleados. |
 | **1905** | 📖 | **Publica *Ministry of Healing*** (516 págs.): salud de cuerpo, mente y alma. |
+| **26 may 1905** | ⚕️ | **Indica a John Burden que compre una propiedad** para una institución médica en Loma Linda, California. *Fuente: Enciclopedia EGW, cronología de Olson y Coon.* |
 | jun 1905 | ⚕️ | **Reconoce el edificio de Loma Linda** y gestiona la propiedad; declara que será un importante centro educativo. |
 | 28 sep 1905 | 🔮 | **Visión en contra del Sanitarium de Canon City, Colorado**: produciría fricción constante y la experiencia equivocada para los pacientes. |
 | **15 abr 1906** | ⚕️⛪ | **DEDICACIÓN DEL LOMA LINDA SANITARIUM**: pronuncia el **discurso dedicatorio** ante una congregación reunida al aire libre. |
@@ -261,7 +276,7 @@
 | may 1906 | 🔮 | **Visión de Mountain View**: la producción a gran escala de alimentos en Loma Linda sería desastrosa; el sanitarium debe dedicarse por completo al ministerio de sanación, separado de los intereses comerciales. |
 | **1907** | 🏛️ | **JOHN HARVEY KELLOGG ES EXCLUIDO DE LA IGLESIA**, temiendo que cambiaría fundamentalmente el carácter de la denominación. Conserva el Sanitarium y sus empresas alimentarias, pero fuera de la iglesia. |
 | 1907 | ⚕️ | Ellen White trabaja para **fundar la escuela de medicina de Loma Linda**. |
-| **may–jun 1909** | ⛪ | **ÚLTIMA SESIÓN DE LA CONFERENCIA GENERAL A LA QUE ASISTE** (Takoma Park, Washington, D. C.), a la edad de 81 años. Pronuncia varios discursos con voz clara y firme. |
+| **15 may – 16 jun 1909** | ⛪ | **ÚLTIMA SESIÓN DE LA CONFERENCIA GENERAL A LA QUE ASISTE** (Takoma Park, Maryland), a la edad de 81 años. Pronuncia **once discursos** ante los delegados. *Fuente: Enciclopedia EGW, cronología de Olson y Coon, que fija las fechas exactas.* |
 | 1 jun 1909 | 📖 | **"Fidelidad en la reforma sanitaria"** (Testimonios, vol. 9, pp. 153–172). |
 | 1909 | 📖 | **"Apelo a favor del Colegio de Médicos Evangelistas de Loma Linda"** (Testimonios, vol. 9, pp. 173–178). |
 | **1909** | 📖 | **Testimonios para la Iglesia, Vol. 9** (288 págs.). |
@@ -284,12 +299,15 @@
 | 4 jul 1912 | 🔮 | **Visión sobre diversiones ociosas** (St. Helena): los jóvenes deben glorificar a Dios, no pasar el tiempo en entretenimientos vanos. |
 | **1913** | 📖 | **Publica *Counsels to Parents, Teachers, and Students*** (556 págs.), con instrucciones sobre la preparación pre-médica adecuada en los colleges adventistas. |
 | 3 dic 1913 | 🔮 | **Visión sobre salarios** (St. Helena): un médico del Sanitarium pedía más sueldo que los demás; se le muestra que contentarlo provocaría la misma demanda en todos. |
+| **14 jun 1914** | 📖 | **FECHA DE SU ÚLTIMO ESCRITO.** *Fuente: Enciclopedia EGW, cronología de Olson y Coon. Control documental: ningún texto suyo es posterior a esta fecha, aunque *Gospel Workers* y *Prophets and Kings* se publicaran después.* |
 | **1914** | 📖 | **Termina el manuscrito de *Gospel Workers*** y lo envía a la imprenta (publicado en 1915, 520 págs.). Trabaja en *Prophets and Kings*. |
 | **13 feb 1915** | 📌 | **CAÍDA EN EL UMBRAL DE SU ESTUDIO**: al entrar en su estudio de Elmshaven, tropieza y no puede levantarse. La radiografía revela una **fractura de la cadera izquierda**. Queda postrada cinco meses en cama o en silla de ruedas. **Esto termina su trabajo literario.** |
 | **3 mar 1915** | 🔮 | **ÚLTIMA VISIÓN**: sobre la elección de libros; los jóvenes suelen descuidar la lectura de buenos libros por otros de lectura más ligera. Deja a un lado los libros que no resultan provechosos. En ella declara: "No creo que vaya a tener más Testimonios para nuestro pueblo." *Publicado como "A Message for Our Young People", Review and Herald, 15 abr 1915.* |
 | 9 may 1915 | ⚕️ | **Celebra la compra de terrenos en Los Ángeles** para el **White Memorial Hospital**. |
 | **16 jul 1915** | 📌 | **FALLECIMIENTO** en Elmshaven, St. Helena, California, a los **87 años**. Había entregado mensajes durante 70 años. En sus últimas semanas de vida mostró asombrosa serenidad, la sensación de haber cumplido fielmente la obra encomendada y la confianza de que la causa de la verdad prevalecería. |
-| 25 jul 1915 | ⛪ | **FUNERAL** en el Tabernáculo de Battle Creek; se celebraron **tres servicios fúnebres**; es **sepultada junto a su esposo** en Oak Hill Cemetery, Battle Creek. |
+| **18 jul 1915** | ⛪ | **Primer servicio fúnebre** en Elmshaven, cerca de Santa Helena, California. |
+| **19 jul 1915** | ⛪ | **Segundo servicio fúnebre** en Richmond, California, durante un congreso campestre. |
+| **24 jul 1915** | ⛪ | **Tercer servicio fúnebre** en el Tabernáculo de Battle Creek, con unos 4.000 asistentes (*Battle Creek Evening Star*, 24/7/1915: "Four Thousand at Funeral Services of Mother White"). Es **sepultada junto a su esposo** en Oak Hill Cemetery, Battle Creek. |
 | 1915 | 📖 | *Gospel Workers* (520 págs.); *Life Sketches of Ellen G. White* (480 págs.). |
 
 ---
@@ -319,8 +337,10 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 
 | Fecha | Lugar | Visión / tema |
 |---|---|---|
-| dic 1844 | Portland, ME | El pueblo adventista viaja a la Ciudad Santa (**primera visión**) |
+| **dic 1844** | Portland, ME | El pueblo adventista viaja a la Ciudad Santa (**primera visión**) |
 | dic 1844 | Portland, ME | La gracia de Dios basta; las dificultades que vendrán |
+| **dic 1844 – ene 1845** | Portland, ME | **Segunda visión**: debe contar a otros lo que ha visto. Le es mostrado que si no lo hace, su luz se apagará (LS80 155) |
+| **ene–feb 1845** | Megquier Hill (Poland), ME | Describe sus visiones a los adventistas reunidos en casa de su hermana **Mary Harmon Foss**: primera presentación pública fuera de Portland |
 | 1845 | Portland, ME | La gran bola de fuego: "Hazlo conocido a otros" (**tercera visión**) |
 | 1845 | Portland, ME | La Tierra Nueva |
 | 1845 | — | 50 textos de Escritura en letras de oro |
@@ -332,6 +352,7 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 | 1845 | Paris, ME | Reprensión a Elder Stevens |
 | 1845 | Carver, MA | La figuración de Jacob antes de la venida |
 | 1846 | Atlántico | Protección en un barco de vela |
+| **6 abr 1846** | Portland, ME | **Primera publicación escrita**: *To the Little Remnant Scattered Abroad*, un circular de 250 copias. *Fuente: Enciclopedia EGW* |
 | nov 1846 | Topsham, ME | Los planetas (ante Joseph Bates) |
 | 3 abr 1847 | Topsham, ME | El Santuario y el halo en el cuarto mandamiento |
 | 1847 | Topsham, ME | El propósito de las pruebas de la familia |
@@ -339,7 +360,8 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 | 27–28 ago 1848 | Port Gibson, NY | Unidad en la conferencia |
 | 18 ago 1848 | Volney, NY | Los 1.000 años de Apocalipsis 20 |
 | 1848 | Rocky Hill, CT | Tabaco, té y café (**primera visión de salud**) |
-| 18 nov 1848 | Dorchester, MA | Publicar "como ríos de luz" |
+| **17–19 nov 1848** | Dorchester, MA | Reuniones: la visión del **sello de Dios** aclara la escatología |
+| **18 nov 1848** | Dorchester, MA | Publicar "como ríos de luz" |
 | 16 dic 1848 | Rocky Hill, CT | El sacudimiento de los poderes de los cielos |
 | 5–6 ene 1849 | Rocky Hill, CT | Intercesión de Cristo + siete langas y decreto de muerte |
 | 6 ene 1849 | Rocky Hill, CT | Ángeles retienen los cuatro vientos |
@@ -353,14 +375,14 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 | 21 jun 1851 | Camden, NY | Contra calcular el tiempo de la venida |
 | 27 may 1856 | Battle Creek, MI | "Los Dos Caminos" |
 | feb 1857 | Battle Creek, MI | Ataques de Satanás contra la iglesia |
+| **26 jun 1854** | Rochester, NY | Las siete últimas langas |
 | **14 mar 1858** | **Lovett's Grove, OH** | **EL GRAN CONTROVERSO** (~2 horas) |
-| jun 1858 | Battle Creek, MI | El ataque de parálisis contra ella misma |
+| **16 mar 1858** | Jackson, MI | Al volver de Ohio, sufre un **ataque de parálisis** en casa de Daniel y Abigail Palmer. La visión siguiente (jun 1858) le informa de que Satanás intentó matarla para impedirle publicar lo de Lovett's Grove |
 | 4 jun 1859 | Battle Creek, MI | No morirá todavía; Laodicea; el diezmo; el vestir |
 | 12 ene 1861 | Parkville, MI | La Guerra Civil |
 | 3 ago 1861 | Roosevelt, NY | Guerra Civil y esclavitud |
 | 5 nov 1862 | Battle Creek, MI | La caída de Moses Hull |
 | **5–6 jun 1863** | **Otsego, MI** | **LA REFORMA SANITARIA** |
-| 26 jun 1854 | Rochester, NY | Las siete últimas langas |
 | 25 dic 1865 | Rochester, NY | Fundar instituciones de salud; observancia del sábado |
 | 12 jun 1868 | Battle Creek, MI | Cielo y tierra nueva |
 | 1 abr 1874 | — | La ampliación del trabajo en el Oeste y el extranjero |
@@ -503,7 +525,7 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 | 1848–1850 | Gorham, Topsham, Exeter, Rockland (Maine); Dorchester (MA); Middletown, NY |
 | 1850–1851 | Toledo, Ohio |
 | 1851–1852 | Boston, MA |
-| **abr 1852 – nov 1855** | **Rochester, New York** |
+| **abr 1851 – nov 1855** | **Rochester, New York** (avda. Mount Hope 124; después 110 y 112) |
 | **nov 1855 – 1865** | **Battle Creek, Michigan** |
 | 1866–1868 | Greenville, Michigan |
 | 1868–1872 | Battle Creek, Michigan |
@@ -538,7 +560,7 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 13. **abr 1901** — **Reorganización de la Confererencia General**: conferencias de unión y departamentos.
 14. **1903** — Traslado de la sede de la GC y de la Review and Herald a Washington/Takoma Park.
 15. **1903–1907** — **Crisis del panteísmo** (J. H. Kellogg / *The Living Temple*): culmina con su exclusión como miembro en 1907.
-16. **1905–1906** — **Loma Linda Sanitarium** y su dedication.
+16. **1905–1906** — **Loma Linda Sanitarium** y su dedicación.
 17. **1910–1912** — Fundación del **Colegio de Médicos Evangelistas** (hoy Loma Linda University).
 18. **9 feb 1912** — Testamento y nombramiento de administradores de sus escritos.
 

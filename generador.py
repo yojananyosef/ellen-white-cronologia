@@ -3,9 +3,13 @@
 Genera "Los Rios de Luz" — cronologia horizontal de Ellen G. White.
 Cero dependencias. Solo HTML + CSS + JS vanilla + SVG + Canvas.
 """
-import io, json, re, html
+import io, json, re, html, os
 
-SECS = json.load(io.open("/tmp/opencode/secs.json", encoding="utf-8"))
+# Los datos viven junto a este script, no en una ruta absoluta:
+# asi el repositorio es portable y el HTML se puede regenerar en cualquier maquina.
+BASE = os.path.dirname(os.path.abspath(__file__))
+SECS_PATH = os.environ.get("SECS_JSON") or os.path.join(BASE, "secs.json")
+SECS = json.load(io.open(SECS_PATH, encoding="utf-8"))
 
 def md(s):
     s = html.escape(s, quote=False)
@@ -1264,5 +1268,5 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        '</div></div>\n'
        '<script>' + JS + '</script>\n</body>\n</html>')
 
-io.open("ellen-white-cronologia.html", "w", encoding="utf-8").write(DOC)
+io.open(os.path.join(BASE, "ellen-white-cronologia.html"), "w", encoding="utf-8").write(DOC)
 print("OK", len(DOC), "bytes |", len(cols), "columnas |", len(ev), "eventos")

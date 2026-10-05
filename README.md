@@ -9,7 +9,8 @@ Ellen Gould Harmon White, cofundadora de la Iglesia Adventista del Séptimo Día
 |---|---|
 | `ellen-white-cronologia.html` | Documento principal, autónomo (sin dependencias JS), con línea de tiempo horizontal |
 | `ellen-white-linea-de-tiempo.md` | Los mismos datos en Markdown, como fuente editable |
-| `generador.py` | Script que produce el HTML a partir del Markdown |
+| `construir.py` | Script único: Markdown → `secs.json` → HTML |
+| `generador.py` | Script que produce el HTML a partir del JSON parseado |
 | `secs.json` | Datos ya parseados que consume el generador |
 
 ## Estructura del documento
@@ -83,30 +84,21 @@ del sistema. Incluye hoja de impresión.
 Para regenerar tras editar el Markdown:
 
 ```bash
-# 1. parsear el markdown a JSON
-python3 - <<'EOF'
-import io, json
-src = io.open("ellen-white-linea-de-tiempo.md", encoding="utf-8").read().split("\n")
-sections, cur, i = [], None, 0
-while i < len(src):
-    ln = src[i]
-    if ln.startswith("## "):
-        cur = {"title": ln[3:].strip(), "rows": [], "intro": []}
-        sections.append(cur); i += 1; continue
-    if cur is not None:
-        if ln.startswith("|") and i+1 < len(src) and set(src[i+1].replace("|","").strip()) <= set("-: "):
-            hdr = [c.strip() for c in ln.strip().strip("|").split("|")]; i += 2; rows = []
-            while i < len(src) and src[i].startswith("|"):
-                cells = [c.strip() for c in src[i].strip().strip("|").split("|")]
-                while len(cells) < len(hdr): cells.append("")
-                rows.append(cells[:len(hdr)]); i += 1
-            cur["rows"].append({"head": hdr, "data": rows}); continue
-        elif ln.strip() and not ln.startswith("---") and not ln.startswith("|"):
-            cur["intro"].append(ln.strip())
-    i += 1
-io.open("secs.json", "w", encoding="utf-8").write(json.dumps(sections, ensure_ascii=False))
-EOF
+python3 construir.py
+```
 
-# 2. generar el HTML
-python3 generador.py
+Ese script hace los dos pasos (parsear el Markdown a `secs.json`, luego invocar
+`generador.py`) y resuelve las rutas por sí solo, así que funciona desde
+cualquier directorio y en cualquier máquina. Si solo estás tocando el
+generador y no quieres reparsear el Markdown:
+
+```bash
+python3 construir.py --sin-json
+```
+
+Los datos se leen de `secs.json` junto al script. Para usar un JSON alternativo
+sin tocar el código, define `SECS_JSON`:
+
+```bash
+SECS_JSON=/ruta/otro.json python3 generar.py
 ```
