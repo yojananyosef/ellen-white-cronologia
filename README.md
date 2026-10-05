@@ -26,7 +26,12 @@ Ellen Gould Harmon White, cofundadora de la Iglesia Adventista del Séptimo Día
 5. **Las visiones** — 79 experiencias proféticas con fecha y lugar.
 6. **Lo que publicó** — 63 títulos en vida + 16 compilaciones póstumas.
 7. **Dieciséis casas** — mapa de residencias y traslados.
-8. **Precisiones y fuentes primarias** — datos verificados (§ VIII del Markdown).
+8. **Siete ejes para el argumento** — la tesis que sostiene cada tramo.
+
+Las notas de cotejo del documento (qué se corrigió y con qué fuente) ya **no se
+publican**: viven en `privado/`, carpeta que está en `.gitignore`. Se retiraron
+porque hablan del proceso de redacción y, sin ese contexto, se leen como
+afirmaciones sobre la historia de Ellen White.
 
 ## Datos de control
 
@@ -66,11 +71,12 @@ Ellen Gould Harmon White, cofundadora de la Iglesia Adventista del Séptimo Día
 
 ## Advertencia sobre el uso
 
-El documento incluye una sección de **verificación** (§ VIII) que recoge tres puntos
-no confirmables con las fuentes consultadas, señalados como pendientes y no como
-hechos: el supuesto incendio de Battle Creek College, la controversia editorial de
-1911–1915 y la cifra de miembros de 1915. Los tres se resolvieron o descartaron tras
-consultar fuentes primarias, salvo donde se indica explícitamente lo contrario.
+El cotejo interno se hizo y se resolvió: el supuesto incendio de Battle Creek
+College no existió (el college cerró en 1882 por disputas sobre la finalidad de
+las escuelas adventistas y se mudó a Berrien Springs en 1901), la controversia
+editorial de 1911–1915 es un episodio real y distinto de lo que se contaba, y
+la cifra de miembros de 1915 (136.879) viene del Informe Estadístico Anual de
+ese año, archivado en ASTR. El detalle está en `privado/`, que no se publica.
 
 Antes de citar, cotejar con la bibliografía académica y con los documentos del
 EGW Estate y de ASTR.

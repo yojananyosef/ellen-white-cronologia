@@ -6,3 +6,6 @@ Thumbs.db
 *.tmp
 node_modules/
 .venv/
+
+# Material de trabajo que no debe publicarse nunca.
+privado/

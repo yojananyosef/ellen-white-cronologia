@@ -93,13 +93,28 @@ def filas_anio(a):
     return [e for e in ev if e['y'] == a]
 
 # ---------------- secciones auxiliares ----------------
-datos    = [r for t in SECS[0]['rows'] for r in t['data']]
-visiones = [r for t in SECS[10]['rows'] for r in t['data']]
-pubs_v   = [r for t in SECS[11]['rows'][0]['data']]
-pubs_p   = [r for t in SECS[11]['rows'][1]['data']]
-resid    = [r for t in SECS[12]['rows'] for r in t['data']]
-verif    = [l.strip() for l in SECS[14]['intro'] if re.match(r'^\d+\.', l.strip())]
-ejes_raw = [l.strip() for l in SECS[15]['intro'] if l.strip().startswith('**Eje')]
+# Se buscan por prefijo de titulo, no por posicion: antes se indexaba SECS[10],
+# SECS[14]... y cualquier seccion anadida o quitada desplazaba todas las demas
+# sin avisar. Un fallo de esa clase no se ve al ejecutar, se ve en el HTML.
+def sec(prefijo):
+    for s in SECS:
+        if s['title'].startswith(prefijo):
+            return s
+    raise SystemExit('falta la seccion que empieza por %r en el markdown' % prefijo)
+
+datos    = [r for t in sec('I.')['rows'] for r in t['data']]
+visiones = [r for t in sec('XI.')['rows'] for r in t['data']]
+
+# Estas dos NO tenian el `for r in t['data']` interno. Como la expresion era
+# solo `r`, el comprehension no generaba nada nuevo: tomaba la variable `r`
+# que habia quedado del bucle de arriba (la ultima fila de la seccion X) y la
+# repetia una vez por cada fila. El resultado eran 63 filas iguales, todas de
+# 1949, en «Lo que publico». Se arregla iterando de verdad.
+pubs_v   = list(sec('XII.')['rows'][0]['data'])
+pubs_p   = list(sec('XII.')['rows'][1]['data'])
+
+resid    = [r for t in sec('XIII.')['rows'] for r in t['data']]
+ejes_raw = [l.strip() for l in sec('XV.')['intro'] if l.strip().startswith('**Eje')]
 
 ETAPAS = []
 for i in TL:
@@ -1098,27 +1113,11 @@ for k, (ei, texto) in enumerate(ESSAYS):
            md(texto.split('. ')[0] + '.'), md('. '.join(texto.split('. ')[1:3]) + '.'),
            items))
 
-# ---- Sección XV: precisiónes (render desde markdown) ----
-precis_html = ''
-for si in range(len(SECS)):
-    if not SECS[si]['title'].startswith('XV.'):
-        continue
-    intro = [l for l in SECS[si]['intro'] if l.strip()]
-    if intro:
-        precis_html += ('<div class="nota-src">' + md(intro[0]) + '</div>')
-    rest = intro[1:]
-    if rest:
-        precis_html += ('<p class="nota-src2">' + ' '.join(md(x) for x in rest) + '</p>')
-    for t in SECS[si]['rows']:
-        head = t['head']
-        precis_html += '<div class="ptb"><h6>' + md(head[0]) + '</h6>'
-        precis_html += '<div class="tbl-scroll"><table><thead><tr>'
-        precis_html += ''.join('<th>' + md(h) + '</th>' for h in head)
-        precis_html += '</tr></thead><tbody>'
-        for r in t['data']:
-            precis_html += '<tr>' + ''.join(
-                '<td>' + md(c) + '</td>' for c in r) + '</tr>'
-        precis_html += '</tbody></table></div></div>'
+# La seccion «Precisiones y fuentes primarias» ya no se publica. Era un
+# registro del proceso de redaccion («la cronologia inicial mencionaba... era
+# falso y se ha eliminado») que, sin ese contexto, se leia como si afirmara
+# algo sobre la historia de Ellen White. El texto vive en privado/, fuera del
+# repositorio; ver notas-de-cotejo.md.
 
 FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
          '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
@@ -1162,7 +1161,7 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        '<div class="sn" style="margin-top:70px"><span class="num">I bis</span></div>\n'
        '<h3 style="max-width:26ch">La vida en diecisiete numeros</h3>\n'
        '<p class="lede">Las cifras de control del trabajo. Las de hijos y miembros proceden '
-       'de fuentes primarias; el detalle esta en la seccion VIII.</p>\n'
+       'de fuentes primarias (Enciclopedia de Elena G. de White, Fortin y Moon; Informe Estadistico Anual de 1915, ASTR).</p>\n'
        + tabla2(['Concepto', 'Dato'], datos) + '\n'
        '</div></section>\n'
 
@@ -1223,21 +1222,6 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        '<p class="lede">Una lista de eventos no es un trabajo. Estos son los siete ejes que '
        'sostienen una tesis.</p>\n'
        '<div class="axes">' + ''.join(ax) + '</div>\n'
-       '</div></section>\n'
-
-       '<section class="sec"><div class="sh">\n'
-       '<div class="sn"><span class="num">VIII</span></div>\n'
-       '<h3>Precisiones y fuentes primarias</h3>\n'
-       '<p class="lede">Los siete puntos que quedaron abiertos en la primera redaccion de '
-       'este documento se resolvieron consultando fuentes primarias. Dos de ellos obligaron '
-       'a <b style="color:var(--paper)">corregir el propio documento</b>, no solo a anotarlo.</p>\n'
-       '<div class="alerta"><b>Dos correcciones.</b> No existio ningun incendio con '
-       'victimas en Battle Creek College: el college se cerro temporalmente en 1882 por '
-       'disputas sobre la finalidad de las escuelas adventistas y se mudo a Berrien Springs '
-       'en 1901,ikerøy se convirtió en Emmanuel Missionary College, hoy Universidad Andrews. '
-       'Y en 1863 <b>James White rechazo la presidencia</b> de la Confererencia General: el '
-       'primer presidente fue John Byington. Las dos versiones anteriores eran falsas.</div>\n'
-       + precis_html +
        '</div></section>\n'
 
        '<footer><div class="sh">\n'
