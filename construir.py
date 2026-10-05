@@ -90,8 +90,10 @@ def main():
     print("generando HTML...")
     subprocess.run([sys.executable, GEN], check=True, cwd=BASE)
 
-    html = os.path.join(BASE, "ellen-white-cronologia.html")
-    print(f"listo: {html} ({os.path.getsize(html):,} bytes)")
+    salida = os.path.join(BASE, "ellen-white-cronologia.html")
+    indice = os.path.join(BASE, "index.html")
+    print(f"listo: {salida} ({os.path.getsize(salida):,} bytes)")
+    print(f"      {indice} (entrada para GitHub Pages)")
 
 
 if __name__ == "__main__":

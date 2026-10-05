@@ -1268,5 +1268,13 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        '</div></div>\n'
        '<script>' + JS + '</script>\n</body>\n</html>')
 
-io.open(os.path.join(BASE, "ellen-white-cronologia.html"), "w", encoding="utf-8").write(DOC)
+salida = os.path.join(BASE, "ellen-white-cronologia.html")
+io.open(salida, "w", encoding="utf-8").write(DOC)
+
+# GitHub Pages (y cualquier servidor estatico) sirve el documento solo si se
+# llama index.html. Se escribe una copia identica para que la raiz del sitio
+# funcione sin renombrar el archivo que usa el resto del proyecto.
+io.open(os.path.join(BASE, "index.html"), "w", encoding="utf-8").write(DOC)
+
 print("OK", len(DOC), "bytes |", len(cols), "columnas |", len(ev), "eventos")
+print("   ->", os.path.basename(salida), "y index.html")
