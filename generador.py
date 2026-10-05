@@ -1261,8 +1261,6 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
         '<section class="sec"><div class="sh">\n'
         '<div class="sn"><span class="num">VIII</span></div>\n'
         '<h3>Cifras y fechas documentadas</h3>\n'
-        '<p class="lede">Tablas de apoyo para las etapas anteriores. Cada una remite a la '
-        'fuente primaria de la que procede.</p>\n'
         + ''.join(cifras_html) +
         '</div></section>\n'
        '<footer><div class="sh">\n'

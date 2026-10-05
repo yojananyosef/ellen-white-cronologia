@@ -2,7 +2,7 @@
 
 **Documento de investigación.**
 
-**Fuentes consultadas:** whiteestate.org (Ellen G. White® Estate), egwwritings.org, encyclopedia.adventist.org (Enciclopedia de los Adventistas del Séptimo Día), adventistarchives.org, adventiststudies.com / spectrummagazine.org / adventistreview.org, digitalcommons.andrews.edu (EGW Center for Study), Wikipedia, AskAnAdventistFriend.com (revisado por el EGW Estate), y la bibliografía indicada: Douglass, *Mensajera del Señor*; Fortin & Moon, *Enciclopedia de Elena G. de White*; Knight; Timm & Esmond; Pfandl; Land; Schwarz & Greenleaf; Delafield; Viera; A. L. White, *Ellen G. White* (6 vols.).
+**Fuentes consultadas:** whiteestate.org (Ellen G. White® Estate), egwwritings.org, encyclopedia.adventist.org (Enciclopedia de los Adventistas del Séptimo Día), adventistarchives.org, adventiststudies.com / spectrummagazine.org / adventistreview.org, digitalcommons.andrews.edu (EGW Center for Study), AskAnAdventistFriend.com (revisado por el EGW Estate), y la bibliografía indicada: Douglass, *Mensajera del Señor*; Fortin & Moon, *Enciclopedia de Elena G. de White*; Knight; Timm & Esmond; Pfandl; Land; Schwarz & Greenleaf; Delafield; Viera; A. L. White, *Ellen G. White* (6 vols.).
 
 **Leyenda de tipos de evento**
 - 🔮 VISIÓN — experiencia profética documentada
@@ -606,10 +606,8 @@ Ellen G. White® Estate, con referencias a Moon, Fortin & Moon y Douglass.
 | **William Clarence "W. C."** | 29 ago 1854, Rochester, Nueva York | **1 sep 1937** | Secretario del EGW Estate de 1915 a 1937; publicó 10 compilaciones, un índice y 64 artículos titulados *Sketches and Memories of James and Ellen G. White*. Casó con Mary Kelsey (1876, murió 1890 de tuberculosis a los 33) y con May Lacey (9 may 1895): gemelos Henry y Herbert, Evelyn Grace, Arthur y Francis |
 | **John Herbert** | 20 sep 1860, Battle Creek | **14 dic 1860** | Eritsipela a los tres meses. Ellen escribe de "veinticuatro días y noches" velando por él |
 
-*Discrepancia sin resolver entre las fuentes:* AskAnAdventistFriend sitúa la muerte
-de W. C. White en St. Helena, California; Wikipedia, en Battle Creek, Michigan. Ambas
-coinciden en la fecha (1 de septiembre de 1937) y en que fue sepultado en Oak Hill
-Cemetery, Battle Creek.
+W. C. White fue sepultado en **Oak Hill Cemetery**, Battle Creek, Michigan, junto
+a su madre.
 
 ### Miembros de la denominación
 
