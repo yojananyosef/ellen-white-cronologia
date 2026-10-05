@@ -1237,7 +1237,7 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
 
        '<section class="sec"><div class="sh">\n'
        '<div class="sn"><span class="num">V</span></div>\n'
-       '<h3>Lo que público</h3>\n'
+       '<h3>Lo que publicó</h3>\n'
        '<p class="lede">Del primer tractado de 1847 al manuscrito inacabado de 1914.</p>\n'
        + tabla(['Año', 'Título', 'Editorial'], pubs_v) + '\n'
        '<p class="lede" style="margin-top:64px">Y después: las compilaciones que el EGW '
