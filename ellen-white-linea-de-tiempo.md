@@ -586,3 +586,76 @@ Ordenadas cronológicamente. Fuente principal: *A Comprehensive List of Ellen G.
 ---
 
 *Documento elaborado a partir de fuentes digitales. Antes de publicarlo o entregarlo, conviene cotejar las fechas con la bibliografía académica señalada por el usuario y con los documentos de archivo del EGW Estate y de ASTR (Adventist Office of Archives, Statistics, and Research).*
+
+---
+
+## XVI. CIFRAS Y FECHAS DOCUMENTADAS
+
+Tablas de apoyo para las etapas anteriores. Todas proceden de fuentes primarias
+citadas en cada una; ninguna describe la redacción de este documento.
+
+### Los cuatro hijos
+
+Fuente: *Who Were Ellen White's Children?*, AskAnAdventistFriend, revisado por el
+Ellen G. White® Estate, con referencias a Moon, Fortin & Moon y Douglass.
+
+| Hijo | Nacimiento | Muerte | Nota |
+|---|---|---|---|
+| **Henry Nichols** | 26 ago 1847, Gorham, Maine | **8 dic 1863**, Topsham, Maine | Pulmonía contraída tras bañarse en el río, a los 16 años. Últimas palabras: "El cielo es dulce". Enterrado en Oak Hill Cemetery |
+| **James Edson "Edson"** | 28 jul 1849, Rocky Hill, Massachusetts | **30 may 1928**, Otsego, Michigan | Construyó el vapor *Morning Star* en el Misisipí; origen de la Southern Missionary Society y de la Southern Publishing Association. Sin hijos biológicos. En 1893 escribió a su madre: "No estoy en absoluto inclinado a la religión" |
+| **William Clarence "W. C."** | 29 ago 1854, Rochester, Nueva York | **1 sep 1937** | Secretario del EGW Estate de 1915 a 1937; publicó 10 compilaciones, un índice y 64 artículos titulados *Sketches and Memories of James and Ellen G. White*. Casó con Mary Kelsey (1876, murió 1890 de tuberculosis a los 33) y con May Lacey (9 may 1895): gemelos Henry y Herbert, Evelyn Grace, Arthur y Francis |
+| **John Herbert** | 20 sep 1860, Battle Creek | **14 dic 1860** | Eritsipela a los tres meses. Ellen escribe de "veinticuatro días y noches" velando por él |
+
+*Discrepancia sin resolver entre las fuentes:* AskAnAdventistFriend sitúa la muerte
+de W. C. White en St. Helena, California; Wikipedia, en Battle Creek, Michigan. Ambas
+coinciden en la fecha (1 de septiembre de 1937) y en que fue sepultado en Oak Hill
+Cemetery, Battle Creek.
+
+### Miembros de la denominación
+
+Fuente primaria: *Statistical Report of Seventh-day Adventist Conferences, Missions,
+and Institutions* (ASR) de 1915, archivado en ASTR.
+
+| Año | Miembros | Crecimiento |
+|---|---|---|
+| 1913 | 122.386 | +7,16 % |
+| 1914 | 125.844 | +2,83 % |
+| **1915** | **136.879** | **+8,77 %** |
+| 1916 | 141.488 | +3,37 % |
+
+En 1915: ganancia neta de **11.035** miembros y **17.438 bautismos**, "uno de los
+máximos jamás registrados". Estructura de ese año: 26 conferencias de unión, 130
+conferencias locales, 109 campos de misión, 147 instituciones; inversión
+denominacional de 14.254.615,45 dólares; fondos totales de 3.407.298,17 y 24,89
+dólares per cápita.
+
+### La organización de 1863 según las actas
+
+Actas de la Confererencia General de 1863 a 1888 (ASTR).
+
+- **20 de mayo de 1863**: se reúne la conferencia en Battle Creek. Presidente
+  temporal J. M. Aldrich; secretario Uriah Smith. Hay 20 delegados de cinco de las
+  seis conferencias estatales; Vermont no envió, y Ohio envió dosantes antes de
+  organizar su conferencia.
+- **21 de mayo de 1863**: se adopta la Constitución y se organiza formalmente la
+  iglesia.
+- El comité que redactó la Constitución tuvo ocho miembros: Andrews, N. Fuller,
+  Sanborn, Morse, H. F. Baker, Snook, Waggoner y Loughborough.
+- El comité de nominaciones propuso a **James White** como presidente. **White lo
+  rechazó** y fue elegido **John Byington**, de 65 años.
+- **Secretario: Uriah Smith. Tesorero: E. S. Walker.**
+- **Comité Ejecutivo:** James White, John Byington, J. N. Loughborough, J. N.
+  Andrews y G. W. Amadon.
+
+La denominación popular de "los 28 fundadores" no aparece en las actas: lo que las
+actas documentan son los 20 delegados de 1863 y sus cinco oficiales.
+
+### Artículos citados con fecha de publicación
+
+Verificados contra el catálogo de visiones del EGW Estate.
+
+| Fecha de publicación | Artículo |
+|---|---|
+| 26 de agosto de 1861 | "Communication from Sister White—Slavery and the War" |
+| 4 de noviembre de 1875 | "A Remarkable Dream" (la visión sobre los colporteurs) |
+| 15 de abril de 1915 | "A Message for Our Young People" (la última visión) |

@@ -389,6 +389,13 @@ body,.tw,#ovpane,.pn,td,th{scrollbar-width:none;-ms-overflow-style:none}
 .ptb .tbl-scroll{margin-top:0}
 .ptb td{font-size:14px}
 
+/* seccion VIII: cifras y fechas documentadas */
+.sec h4.sub{margin-top:52px;font-family:var(--sans);font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--brass);font-weight:400}
+.sec h4.sub:first-of-type{margin-top:34px}
+.sec p.note2{margin-top:14px;max-width:74ch;font-size:15.2px;line-height:1.7;color:var(--paper2)}
+.sec .tw{margin-top:16px}
+
 /* ---------- EDITORIAL ---------- */
 .essay{margin-top:90px}
 .e-h{display:flex;align-items:baseline;gap:18px;border-bottom:1px solid var(--brass);
@@ -490,7 +497,7 @@ footer b{color:var(--paper2)}
   #track{transform:none!important;flex-wrap:wrap}
   .col{flex:1 1 30%;page-break-inside:avoid}
   #flow,.tip{display:none}
-  h1,h3,h4,.ax h5{color:#000}
+  h1,h3,h4,.ax h5,.sec h4.sub{color:#000}
 }
 """
 
@@ -998,6 +1005,28 @@ for r in resid:
     rc.append('<div class="rc"><div class="p">%s</div><div class="l">%s</div></div>'
               % (limpio(meta), md(r[1])))
 
+# ---- cifras y fechas documentadas (seccion XVI del markdown) ----
+# Se renderizan los subtitulos (###) como encabezado y las tablas con la misma
+# tabla() del resto del documento. Los parrafos sueltos de la seccion se
+# ignoran a proposito: son notas de fuente que ya se citan en cada tabla.
+cifras_html = []
+_xvi = sec('XVI.')
+_parrafo = []
+for l in _xvi['intro']:
+    l = l.strip()
+    if l.startswith('### '):
+        if _parrafo:
+            cifras_html.append('<p class="note2">' + md(' '.join(_parrafo)) + '</p>')
+            _parrafo = []
+        cifras_html.append('<h4 class="sub">%s</h4>' % md(l[4:].strip()))
+    elif l:
+        _parrafo.append(l)
+if _parrafo:
+    cifras_html.append('<p class="note2">' + md(' '.join(_parrafo)) + '</p>')
+for t in _xvi['rows']:
+    cifras_html.append(tabla(t['head'], t['data']))
+    cifras_html.append('<div style="height:18px"></div>')
+
 # ejes
 ax = []
 for l in ejes_raw:
@@ -1224,6 +1253,18 @@ DOC = ('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
        '<div class="axes">' + ''.join(ax) + '</div>\n'
        '</div></section>\n'
 
+        # ---- Seccion VIII: cifras y fechas documentadas ----
+        # Tablas de apoyo, cada una con su fuente primaria citada. Lo que NO va
+        # aqui es el registro de redaccion («la version anterior afirmaba...»):
+        # ese se quedo en privado/, porque ledo sin contexto se confunde con una
+        # afirmacion sobre la historia de Ellen White.
+        '<section class="sec"><div class="sh">\n'
+        '<div class="sn"><span class="num">VIII</span></div>\n'
+        '<h3>Cifras y fechas documentadas</h3>\n'
+        '<p class="lede">Tablas de apoyo para las etapas anteriores. Cada una remite a la '
+        'fuente primaria de la que procede.</p>\n'
+        + ''.join(cifras_html) +
+        '</div></section>\n'
        '<footer><div class="sh">\n'
        '<div style="flex:1;min-width:260px">Cotejar las fechas con la bibliografia academica '
        '(Douglass; Fortin &amp; Moon; Knight; Timm &amp; Esmond; Pfandl; Land; Schwarz &amp; '
