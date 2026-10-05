@@ -394,6 +394,10 @@ body,.tw,#ovpane,.pn,td,th{scrollbar-width:none;-ms-overflow-style:none}
   text-transform:uppercase;color:var(--brass);font-weight:400}
 .sec h4.sub:first-of-type{margin-top:34px}
 .sec p.note2{margin-top:14px;max-width:74ch;font-size:15.2px;line-height:1.7;color:var(--paper2)}
+.sec ul.sub-l{margin:14px 0 0;padding-left:22px;max-width:78ch;
+  font-size:15.2px;line-height:1.66;color:var(--paper2)}
+.sec ul.sub-l li{margin-bottom:9px}
+.sec ul.sub-l li::marker{color:var(--brass);font-size:.8em}
 .sec .tw{margin-top:16px}
 
 /* ---------- EDITORIAL ---------- */
@@ -1006,25 +1010,50 @@ for r in resid:
               % (limpio(meta), md(r[1])))
 
 # ---- cifras y fechas documentadas (seccion XVI del markdown) ----
-# Se renderizan los subtitulos (###) como encabezado y las tablas con la misma
-# tabla() del resto del documento. Los parrafos sueltos de la seccion se
-# ignoran a proposito: son notas de fuente que ya se citan en cada tabla.
+# Los subtitulos (###) salen como encabezado y las tablas con la misma tabla()
+# del resto del documento. El texto suelto se agrupa por tipo: parrafo, o
+# lista si empieza por "- ". Antes se unia todo con espacios y las vinetas de
+# la organizacion de 1863 salian como un parrafo corrido con guiones sueltos.
 cifras_html = []
 _xvi = sec('XVI.')
-_parrafo = []
-for l in _xvi['intro']:
-    l = l.strip()
-    if l.startswith('### '):
-        if _parrafo:
-            cifras_html.append('<p class="note2">' + md(' '.join(_parrafo)) + '</p>')
-            _parrafo = []
-        cifras_html.append('<h4 class="sub">%s</h4>' % md(l[4:].strip()))
-    elif l:
-        _parrafo.append(l)
-if _parrafo:
-    cifras_html.append('<p class="note2">' + md(' '.join(_parrafo)) + '</p>')
+_parrafo, _items = [], []
+
+
+def _cerrar_parrafo():
+    if _parrafo:
+        cifras_html.append('<p class="note2">' + md(' '.join(_parrafo)) + '</p>')
+        del _parrafo[:]
+
+
+def _cerrar_lista():
+    if _items:
+        cifras_html.append('<ul class="sub-l">'
+                           + ''.join('<li>%s</li>' % md(i) for i in _items)
+                           + '</ul>')
+        del _items[:]
+
+
+for _l in _xvi['intro']:
+    _l = _l.strip()
+    if not _l:
+        continue
+    if _l.startswith('### '):
+        _cerrar_parrafo(); _cerrar_lista()
+        cifras_html.append('<h4 class="sub">%s</h4>' % md(_l[4:].strip()))
+    elif _l.startswith('- '):
+        _cerrar_parrafo()
+        _items.append(_l[2:].strip())
+    elif _items:
+        _items[-1] += ' ' + _l          # continuacion del elemento anterior
+    else:
+        _parrafo.append(_l)
+
+_cerrar_parrafo(); _cerrar_lista()
+
 for t in _xvi['rows']:
     cifras_html.append(tabla(t['head'], t['data']))
+    cifras_html.append('<div style="height:18px"></div>')
+
     cifras_html.append('<div style="height:18px"></div>')
 
 # ejes
